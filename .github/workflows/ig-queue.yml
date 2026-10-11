@@ -16,6 +16,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Check the token (prints the username only)
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: node -e "fetch('https://graph.instagram.com/v26.0/me?fields=username,account_type&access_token='+process.env.IG_TOKEN).then(r=>r.json()).then(j=>{if(j.error){console.error('token check failed:',j.error.message);process.exit(1)}console.log('token ok for',j.username,j.account_type)})"
       - name: Post what is due
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}

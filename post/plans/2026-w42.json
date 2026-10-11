@@ -1,0 +1,158 @@
+{
+  "week": "Mon 12 to Sun 18 Oct 2026",
+  "base": "https://raw.githubusercontent.com/adspenta0-beep/adspenta-media/main/",
+  "items": [
+    {
+      "id": "ig-mon-0900",
+      "platform": "ig",
+      "kind": "image",
+      "at": "2026-10-12T09:00",
+      "media": "d17-launch-card.png",
+      "caption": "Adspenta. Finds it. Fixes it. Proves it.\n\nAd account management for agencies. It checks your clients' Meta and Google ads every day, suggests the fix with the reason, and nothing changes without your yes.\n\nThe trial is open today. Start at adspenta.com (link in bio).\n\n#PPC #MetaAds #AgencyLife"
+    },
+    {
+      "id": "fb-mon-0900",
+      "platform": "fb",
+      "kind": "photo",
+      "at": "2026-10-12T09:00",
+      "media": "d17-launch-card.png",
+      "caption": "Adspenta. Finds it. Fixes it. Proves it.\n\nAd account management for agencies. It checks your clients' Meta and Google ads every day, suggests the fix with the reason, and nothing changes without your yes.\n\nThe trial is open today. adspenta.com is in the About section.",
+      "status": "scheduled",
+      "result": "scheduled photo: id 122110316967496232 for 2026-10-12T09:00"
+    },
+    {
+      "id": "fb-mon-0905",
+      "platform": "fb",
+      "kind": "photo",
+      "at": "2026-10-12T09:05",
+      "media": "d18-trial-open.png",
+      "caption": "The trial is open. Connect a client account; tomorrow morning, read it the Adspenta way.\n\nadspenta.com in the About section.",
+      "status": "scheduled",
+      "result": "scheduled photo: id 122110317093496232 for 2026-10-12T09:05"
+    },
+    {
+      "id": "ig-mon-0910",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-12T09:10",
+      "media": "d18-trial-open.png",
+      "caption": ""
+    },
+    {
+      "id": "ig-mon-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-12T18:00",
+      "media": "V52-one-person-eight-clients-cta-9x16.mp4",
+      "caption": "One person. Eight clients.\n\nYou can't open every account every day. Nobody can. Adspenta reads them all and brings you only what needs a decision, with the fix and the reasons. Today, that's two.\n\nHow many accounts are you checking by hand right now?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyLife"
+    },
+    {
+      "id": "fb-mon-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-12T20:00",
+      "media": "V52-one-person-eight-clients-cta-9x16.mp4",
+      "caption": "One person. Eight clients.\n\nYou can't open every account every day. Adspenta reads them all and brings you only what needs a decision, with the fix and the reasons.\n\nHow many accounts are you checking by hand right now? AI voice.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1227657916527732 for 2026-10-12T20:00"
+    },
+    {
+      "id": "ig-tue-1800",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-13T18:00",
+      "media": "carousel-1-ten-checks-brand-01.png,carousel-1-ten-checks-brand-02.png,carousel-1-ten-checks-brand-03.png,carousel-1-ten-checks-brand-04.png,carousel-1-ten-checks-brand-05.png,carousel-1-ten-checks-brand-06.png,carousel-1-ten-checks-brand-07.png",
+      "caption": "Approving changes in client ad accounts: 10 checks before anything goes live.\n\nThese are the checks behind every change in Adspenta. They work as a checklist with any tool, or with a person and a spreadsheet.\n\nIf you only take two: live changes stay off for every account until someone turns them on, one account at a time. And \"sent\" is not \"done\" until the platform shows the new value.\n\nWhich check does your agency skip today?\n\n#PPC #MetaAds #GoogleAds"
+    },
+    {
+      "id": "fb-tue-1800",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-13T18:00",
+      "media": "carousel-1-ten-checks-brand-01.png,carousel-1-ten-checks-brand-02.png,carousel-1-ten-checks-brand-03.png,carousel-1-ten-checks-brand-04.png,carousel-1-ten-checks-brand-05.png,carousel-1-ten-checks-brand-06.png,carousel-1-ten-checks-brand-07.png",
+      "caption": "Approving changes in client ad accounts: 10 checks before anything goes live.\n\nThese are the checks behind every change in Adspenta. They work as a checklist with any tool, or with a person and a spreadsheet.\n\nWhich check does your agency skip today?",
+      "status": "scheduled",
+      "result": "scheduled photos: id 1480901191763665_122110317465496232 for 2026-10-13T18:00"
+    },
+    {
+      "id": "ig-wed-1800",
+      "platform": "ig",
+      "kind": "image",
+      "at": "2026-10-14T18:00",
+      "media": "before-after.png",
+      "caption": "Meta ads reach: four ads at about 10,000 each do not make 40,000 people. (Example figures.)\n\nReach counts people, not views. Someone who saw all four ads is one person, but adding the four numbers counts them four times. The real figure could be 9,000 or 30,000. Only the platform, which knows who is who, can say.\n\nSpend, impressions and clicks add up. Reach doesn't, across ads or across days.\n\nAdspenta never adds reach up. Where a total would need it, it shows no number rather than a wrong one.\n\nWorth checking: where does the \"total reach\" line in your client reports come from?\n\n#MetaAds #PaidMedia"
+    },
+    {
+      "id": "ig-thu-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-15T18:00",
+      "media": "voice-zero.mp4",
+      "caption": "Adspenta's card showed 0 Google Ads accounts. There was an account.\n\nOn 1 October Adspenta connected to a real Google Ads account for the first time. The card said: \"Found 0 ad accounts on Google.\"\n\nGoogle was refusing every read. The code caught each refusal, skipped the account and reported what was left: nothing. A refusal became a zero, and the zero looked like a fact.\n\nThe card now shows Google's own words. An empty result and a failed read must never look the same on a screen.\n\nHas a zero in one of your reports ever turned out to be an error? AI voice.\n\n#GoogleAds #PPC"
+    },
+    {
+      "id": "fb-thu-1800",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-15T18:00",
+      "media": "voice-zero.mp4",
+      "caption": "Adspenta's card showed 0 Google Ads accounts. There was an account.\n\nGoogle was refusing every read, and the refusals turned into a zero. The card now shows Google's own words.\n\nHas a zero in one of your reports ever turned out to be an error? AI voice.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1086744487481007 for 2026-10-15T18:00"
+    },
+    {
+      "id": "ig-fri-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-16T18:00",
+      "media": "V59-how-do-you-know-cta-9x16.mp4",
+      "caption": "How do you know nothing's going wrong in your clients' accounts right now?\n\nUsually you don't. You find out when the client calls. Adspenta reads every account every day; if something needs you it's at the top of your list with the fix. If nothing does, you get a quiet day.\n\nWhen did a client last tell you before you knew?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#GoogleAds #PaidMedia #AgencyOwner"
+    },
+    {
+      "id": "fb-fri-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-16T20:00",
+      "media": "V59-how-do-you-know-cta-9x16.mp4",
+      "caption": "How do you know nothing's going wrong in your clients' accounts right now?\n\nUsually you find out when the client calls. Adspenta reads every account every day and puts what needs you at the top of your list, with the fix.\n\nWhen did a client last tell you before you knew? AI voice.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 960374537140502 for 2026-10-16T20:00"
+    },
+    {
+      "id": "ig-sat-1800",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-17T18:00",
+      "media": "d13-what-adspenta-is-01.png,d13-what-adspenta-is-02.png,d13-what-adspenta-is-03.png,d13-what-adspenta-is-04.png,d13-what-adspenta-is-05.png,d13-what-adspenta-is-06.png,d13-what-adspenta-is-07.png,d13-what-adspenta-is-08.png",
+      "caption": "What Adspenta is, in 8 slides.\n\nAd account management for agencies: every client's Meta and Google Ads account read every day, fixes suggested with the reason, nothing changed without your yes or a rule you set, every change recorded and checked at 7 and 14 days.\n\nPinned, so it's always here.\n\nStart your trial at adspenta.com (bio).\n\n#PPC #MetaAds #AgencyLife"
+    },
+    {
+      "id": "fb-sat-2000",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-17T20:00",
+      "media": "d13-what-adspenta-is-01.png,d13-what-adspenta-is-02.png,d13-what-adspenta-is-03.png,d13-what-adspenta-is-04.png,d13-what-adspenta-is-05.png,d13-what-adspenta-is-06.png,d13-what-adspenta-is-07.png,d13-what-adspenta-is-08.png",
+      "caption": "What Adspenta is, in 8 slides.\n\nEvery client's Meta and Google Ads account read every day, fixes suggested with the reason, nothing changed without your yes, every change recorded and checked at 7 and 14 days.\n\nadspenta.com in the About section.",
+      "status": "scheduled",
+      "result": "scheduled photos: id 1480901191763665_122110318071496232 for 2026-10-17T20:00"
+    },
+    {
+      "id": "ig-sun-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-18T18:00",
+      "media": "V61-not-for-everyone-light-9x16.mp4",
+      "caption": "Adspenta isn't for everyone.\n\nIf you run one ad account and love checking it by hand, you'll be fine without us. If you're an agency with client after client and you want every change checked, approved and written down, it's built for you.\n\nWhich one are you?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #PaidMedia #AgencyOwner"
+    },
+    {
+      "id": "fb-sun-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-18T20:00",
+      "media": "V61-not-for-everyone-light-9x16.mp4",
+      "caption": "Adspenta isn't for everyone.\n\nOne ad account you love checking by hand? You're fine without us. An agency with client after client that wants every change checked, approved and written down? Built for you.\n\nWhich one are you? AI voice.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1425003106434720 for 2026-10-18T20:00"
+    }
+  ]
+}

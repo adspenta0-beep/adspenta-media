@@ -1,0 +1,31 @@
+name: Instagram queue
+# Posts the due Instagram items from post/plans/*.json through Meta's own API (no third party).
+# Runs every 10 minutes on GitHub's servers; the PC can be off. Items older than 30 minutes are skipped, never posted late.
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: ig-queue
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Post what is due
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          TZ: Europe/Bucharest
+        run: node post/run-queue.mjs
+      - name: Save results
+        run: |
+          git config user.name "ig-queue"
+          git config user.email "ig-queue@users.noreply.github.com"
+          git add post/plans post/queue.log || true
+          git diff --cached --quiet || git commit -m "queue: $(date -u +%Y-%m-%dT%H:%M)Z"
+          git push

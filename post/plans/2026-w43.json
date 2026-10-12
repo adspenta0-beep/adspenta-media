@@ -2,45 +2,117 @@
   "week": "Mon 19 to Sun 25 Oct 2026",
   "base": "https://raw.githubusercontent.com/adspenta0-beep/adspenta-media/main/",
   "items": [
-    { "id": "ig-mon19-1800", "platform": "ig", "kind": "reel", "at": "2026-10-19T18:00", "media": "B01-spot-the-tired-ad-9x16.mp4",
-      "caption": "Spot the tired ad. You've got three seconds.\n\nAdspenta checks how often people have seen every ad, and where the clicks are going, every day. Today it's this one: seen five times each, clicks down by half. It suggests a pause. You say yes.\n\nDid you get it?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#MetaAds #PPC #AgencyLife" },
-    { "id": "fb-mon19-2000", "platform": "fb", "kind": "reel", "at": "2026-10-19T20:00", "media": "B01-spot-the-tired-ad-9x16.mp4",
-      "caption": "Spot the tired ad. You've got three seconds.\n\nAdspenta checks how often people have seen every ad, and where the clicks are going, every day. Today: seen five times each, clicks down by half. It suggests a pause. You say yes.\n\nDid you get it? AI voice." },
-
-    { "id": "ig-tue20-1800", "platform": "ig", "kind": "carousel", "at": "2026-10-20T18:00",
+    {
+      "id": "ig-mon19-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-19T18:00",
+      "media": "B01-spot-the-tired-ad-9x16.mp4",
+      "caption": "Spot the tired ad. You've got three seconds.\n\nAdspenta checks how often people have seen every ad, and where the clicks are going, every day. Today it's this one: seen five times each, clicks down by half. It suggests a pause. You say yes.\n\nDid you get it?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#MetaAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-mon19-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-19T20:00",
+      "media": "B01-spot-the-tired-ad-9x16.mp4",
+      "caption": "Spot the tired ad. You've got three seconds.\n\nAdspenta checks how often people have seen every ad, and where the clicks are going, every day. Today: seen five times each, clicks down by half. It suggests a pause. You say yes.\n\nDid you get it? AI voice."
+    },
+    {
+      "id": "ig-tue20-1800",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-20T18:00",
       "media": "carousel-3-silent-failures-brand-01.png,carousel-3-silent-failures-brand-02.png,carousel-3-silent-failures-brand-03.png,carousel-3-silent-failures-brand-04.png,carousel-3-silent-failures-brand-05.png,carousel-3-silent-failures-brand-06.png",
-      "caption": "Silent failures in ad tools: three that never raised an alert.\n\nError alerts only fire when something fails. These didn't fail. They stopped, or they could never trip.\n\nAdspenta's backups stopped twice and nothing failed: once the job never ran, once it ran, copied nothing and reported success. A Google read that was refused showed up as a zero. A fatigue detector compared a weekly frequency with a daily one, so it never fired.\n\nEach slide ends with one check you can run on your own setup this week.\n\nWhat in your agency would break without making a sound?\n\n#PPC #AgencyLife" },
-    { "id": "fb-tue20-1800", "platform": "fb", "kind": "photos", "at": "2026-10-20T18:00",
+      "caption": "Silent failures in ad tools: three that never raised an alert.\n\nError alerts only fire when something fails. These didn't fail. They stopped, or they could never trip.\n\nAdspenta's backups stopped twice and nothing failed: once the job never ran, once it ran, copied nothing and reported success. A Google read that was refused showed up as a zero. A fatigue detector compared a weekly frequency with a daily one, so it never fired.\n\nEach slide ends with one check you can run on your own setup this week.\n\nWhat in your agency would break without making a sound?\n\n#PPC #AgencyLife"
+    },
+    {
+      "id": "fb-tue20-1800",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-20T18:00",
       "media": "carousel-3-silent-failures-brand-01.png,carousel-3-silent-failures-brand-02.png,carousel-3-silent-failures-brand-03.png,carousel-3-silent-failures-brand-04.png,carousel-3-silent-failures-brand-05.png,carousel-3-silent-failures-brand-06.png",
-      "caption": "Silent failures in ad tools: three that never raised an alert.\n\nError alerts only fire when something fails. These didn't fail. They stopped, or they could never trip. Each slide ends with one check you can run on your own setup this week.\n\nWhat in your agency would break without making a sound?" },
-
-    { "id": "ig-wed21-1800", "platform": "ig", "kind": "carousel", "at": "2026-10-21T18:00",
+      "caption": "Silent failures in ad tools: three that never raised an alert.\n\nError alerts only fire when something fails. These didn't fail. They stopped, or they could never trip. Each slide ends with one check you can run on your own setup this week.\n\nWhat in your agency would break without making a sound?"
+    },
+    {
+      "id": "ig-wed21-1800",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-21T18:00",
       "media": "d04-monday-checklist-01.png,d04-monday-checklist-02.png,d04-monday-checklist-03.png,d04-monday-checklist-04.png,d04-monday-checklist-05.png,d04-monday-checklist-06.png",
-      "caption": "The Monday checklist: 7 things to check in every client ad account before 10:00.\n\nSpend vs plan, frequency, tracking, disapprovals, budgets ending, duplicate audiences, and 'did last week's change work?' Example thresholds on the slides.\n\nSave it; run it on every account tomorrow.\n\nAdspenta does this list every morning on every connected account. Start your trial at adspenta.com (bio).\n\n#PPC #GoogleAds #PaidMedia" },
-    { "id": "fb-wed21-2000", "platform": "fb", "kind": "photos", "at": "2026-10-21T20:00",
+      "caption": "The Monday checklist: 7 things to check in every client ad account before 10:00.\n\nSpend vs plan, frequency, tracking, disapprovals, budgets ending, duplicate audiences, and 'did last week's change work?' Example thresholds on the slides.\n\nSave it; run it on every account tomorrow.\n\nAdspenta does this list every morning on every connected account. Start your trial at adspenta.com (bio).\n\n#PPC #GoogleAds #PaidMedia"
+    },
+    {
+      "id": "fb-wed21-2000",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-21T20:00",
       "media": "d04-monday-checklist-01.png,d04-monday-checklist-02.png,d04-monday-checklist-03.png,d04-monday-checklist-04.png,d04-monday-checklist-05.png,d04-monday-checklist-06.png",
-      "caption": "The Monday checklist: 7 things to check in every client ad account before 10:00.\n\nSpend vs plan, frequency, tracking, disapprovals, budgets ending, duplicate audiences, and 'did last week's change work?'\n\nSave it; run it on every account tomorrow. Adspenta does this list every morning on every connected account." },
-
-    { "id": "ig-thu22-1800", "platform": "ig", "kind": "reel", "at": "2026-10-22T18:00", "media": "voice-fourfour.mp4",
-      "caption": "Two agencies on one Meta ad account. \"At most 4 changes a day\" becomes 8.\n\nIt happens when a brand moves agency and the old one keeps access for a few weeks, or when prospecting and retargeting sit with different agencies in the same account.\n\nEach limit only counts its own changes, so neither agency sees the other's 4. Two sets of guardrails on one account aren't two safeguards.\n\nAdspenta's rule is the boring one: if the same Meta ad account is connected in two agencies, neither can make live changes until one lets go.\n\nBefore you set any rule on a new client's account, ask who else still has access to it. AI voice.\n\n#MetaAds #AgencyLife" },
-    { "id": "fb-thu22-1800", "platform": "fb", "kind": "reel", "at": "2026-10-22T18:00", "media": "voice-fourfour.mp4",
-      "caption": "Two agencies on one Meta ad account. \"At most 4 changes a day\" becomes 8.\n\nEach limit only counts its own changes, so neither agency sees the other's 4. Adspenta blocks live changes on an account connected in two agencies until one lets go.\n\nBefore you set any rule on a new client's account, ask who else still has access to it. AI voice." },
-
-    { "id": "ig-fri23-1800", "platform": "ig", "kind": "reel", "at": "2026-10-23T18:00", "media": "V62-two-agencies-one-question-light-cta-9x16.mp4",
-      "caption": "Same client question. Two agencies.\n\nAgency one: 'let me check and get back to you.' Agency two opens the record: the change, the reason, who said yes, and the result.\n\nWhich one would you trust with your budget?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #AgencyOwner #PaidMedia" },
-    { "id": "fb-fri23-2000", "platform": "fb", "kind": "reel", "at": "2026-10-23T20:00", "media": "V62-two-agencies-one-question-light-cta-9x16.mp4",
-      "caption": "Same client question. Two agencies.\n\nAgency one: 'let me check and get back to you.' Agency two opens the record: the change, the reason, who said yes, and the result.\n\nWhich one would you trust with your budget? AI voice." },
-
-    { "id": "ig-sat24-1800", "platform": "ig", "kind": "carousel", "at": "2026-10-24T18:00",
+      "caption": "The Monday checklist: 7 things to check in every client ad account before 10:00.\n\nSpend vs plan, frequency, tracking, disapprovals, budgets ending, duplicate audiences, and 'did last week's change work?'\n\nSave it; run it on every account tomorrow. Adspenta does this list every morning on every connected account."
+    },
+    {
+      "id": "ig-thu22-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-22T18:00",
+      "media": "voice-fourfour.mp4",
+      "caption": "Two agencies on one Meta ad account. \"At most 4 changes a day\" becomes 8.\n\nIt happens when a brand moves agency and the old one keeps access for a few weeks, or when prospecting and retargeting sit with different agencies in the same account.\n\nEach limit only counts its own changes, so neither agency sees the other's 4. Two sets of guardrails on one account aren't two safeguards.\n\nAdspenta's rule is the boring one: if the same Meta ad account is connected in two agencies, neither can make live changes until one lets go.\n\nBefore you set any rule on a new client's account, ask who else still has access to it. AI voice.\n\n#MetaAds #AgencyLife"
+    },
+    {
+      "id": "fb-thu22-1800",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-22T18:00",
+      "media": "voice-fourfour.mp4",
+      "caption": "Two agencies on one Meta ad account. \"At most 4 changes a day\" becomes 8.\n\nEach limit only counts its own changes, so neither agency sees the other's 4. Adspenta blocks live changes on an account connected in two agencies until one lets go.\n\nBefore you set any rule on a new client's account, ask who else still has access to it. AI voice."
+    },
+    {
+      "id": "ig-fri23-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-23T18:00",
+      "media": "V62-two-agencies-one-question-light-cta-9x16.mp4",
+      "caption": "Same client question. Two agencies.\n\nAgency one: 'let me check and get back to you.' Agency two opens the record: the change, the reason, who said yes, and the result.\n\nWhich one would you trust with your budget?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #AgencyOwner #PaidMedia"
+    },
+    {
+      "id": "fb-fri23-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-23T20:00",
+      "media": "V62-two-agencies-one-question-light-cta-9x16.mp4",
+      "caption": "Same client question. Two agencies.\n\nAgency one: 'let me check and get back to you.' Agency two opens the record: the change, the reason, who said yes, and the result.\n\nWhich one would you trust with your budget? AI voice."
+    },
+    {
+      "id": "ig-sat24-1800",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-24T18:00",
       "media": "d07-myth-ai-spends-money-01.png,d07-myth-ai-spends-money-02.png,d07-myth-ai-spends-money-03.png,d07-myth-ai-spends-money-04.png,d07-myth-ai-spends-money-05.png,d07-myth-ai-spends-money-06.png,d07-myth-ai-spends-money-07.png",
-      "caption": "Myth: 'Let an AI near the account and it'll spend my client's money.'\n\nFact, in Adspenta: the AI can look and suggest. It can't change anything on Meta or Google. Only the software sends a change, after a yes. Five-minute take-back. A halt switch for every account. Every change written down.\n\nWhich of these did you not expect?\n\nStart your trial at adspenta.com (bio).\n\n#MetaAds #PPC #AgencyLife" },
-    { "id": "fb-sat24-2000", "platform": "fb", "kind": "photos", "at": "2026-10-24T20:00",
+      "caption": "Myth: 'Let an AI near the account and it'll spend my client's money.'\n\nFact, in Adspenta: the AI can look and suggest. It can't change anything on Meta or Google. Only the software sends a change, after a yes. Five-minute take-back. A halt switch for every account. Every change written down.\n\nWhich of these did you not expect?\n\nStart your trial at adspenta.com (bio).\n\n#MetaAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-sat24-2000",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-24T20:00",
       "media": "d07-myth-ai-spends-money-01.png,d07-myth-ai-spends-money-02.png,d07-myth-ai-spends-money-03.png,d07-myth-ai-spends-money-04.png,d07-myth-ai-spends-money-05.png,d07-myth-ai-spends-money-06.png,d07-myth-ai-spends-money-07.png",
-      "caption": "Myth: 'Let an AI near the account and it'll spend my client's money.'\n\nFact, in Adspenta: the AI can look and suggest. It can't change anything on Meta or Google. Only the software sends a change, after a yes. Five-minute take-back. A halt switch for every account.\n\nWhich of these did you not expect?" },
-
-    { "id": "ig-sun25-1800", "platform": "ig", "kind": "reel", "at": "2026-10-25T18:00", "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4",
-      "caption": "The AI talks. The software does.\n\nWorried an AI will change your clients' ads on its own? In Adspenta the two are kept apart: the AI has no way to change your ads, only the software can, and only after your yes or a rule you set. Then it checks the change landed and writes it down.\n\nWhat's the one thing you'd never let it do?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyOwner" },
-    { "id": "fb-sun25-2000", "platform": "fb", "kind": "reel", "at": "2026-10-25T20:00", "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4",
-      "caption": "The AI talks. The software does.\n\nIn Adspenta the two are kept apart: the AI has no way to change your ads, only the software can, and only after your yes or a rule you set. Then it checks the change landed and writes it down.\n\nWhat's the one thing you'd never let it do? AI voice." }
+      "caption": "Myth: 'Let an AI near the account and it'll spend my client's money.'\n\nFact, in Adspenta: the AI can look and suggest. It can't change anything on Meta or Google. Only the software sends a change, after a yes. Five-minute take-back. A halt switch for every account.\n\nWhich of these did you not expect?"
+    },
+    {
+      "id": "ig-sun25-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-25T18:00",
+      "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4",
+      "caption": "The AI talks. The software does.\n\nWorried an AI will change your clients' ads on its own? In Adspenta the two are kept apart: the AI has no way to change your ads, only the software can, and only after your yes or a rule you set. Then it checks the change landed and writes it down.\n\nWhat's the one thing you'd never let it do?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyOwner"
+    },
+    {
+      "id": "fb-sun25-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-25T20:00",
+      "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4",
+      "caption": "The AI talks. The software does.\n\nIn Adspenta the two are kept apart: the AI has no way to change your ads, only the software can, and only after your yes or a rule you set. Then it checks the change landed and writes it down.\n\nWhat's the one thing you'd never let it do? AI voice."
+    }
   ]
 }

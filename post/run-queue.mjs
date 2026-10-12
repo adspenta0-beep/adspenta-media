@@ -17,7 +17,7 @@ const now = Date.now(), GRACE = 30 * 60 * 1000;
 const stamp = () => new Date().toISOString().slice(0, 16).replace("T", " ");
 
 for (const f of readdirSync(plans).filter((n) => n.endsWith(".json"))) {
-  const file = join(plans, f), plan = JSON.parse(readFileSync(file, "utf8"));
+  const file = join(plans, f), plan = JSON.parse(readFileSync(file, "utf8").replace(/^﻿/, ""));
   let changed = false;
   for (const it of plan.items) {
     if (it.platform !== "ig") continue;

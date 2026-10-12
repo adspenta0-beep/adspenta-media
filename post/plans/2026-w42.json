@@ -9,8 +9,9 @@
       "at": "2026-10-12T12:30",
       "media": "d17-launch-card.png",
       "caption": "Adspenta. Finds it. Fixes it. Proves it.\n\nAd account management for agencies. It checks your clients' Meta and Google ads every day, suggests the fix with the reason, and nothing changes without your yes.\n\nThe trial is open today. Start at adspenta.com (link in bio).\n\n#PPC #MetaAds #AgencyLife",
-      "status": "pending",
-      "result": ""
+      "status": "failed",
+      "result": "Error: 28787309097545009/media_publish: Media ID is not available (code 9007)",
+      "reported": true
     },
     {
       "id": "fb-mon-0900",
@@ -39,8 +40,9 @@
       "at": "2026-10-12T12:30",
       "media": "d18-trial-open.png",
       "caption": "",
-      "status": "pending",
-      "result": ""
+      "status": "failed",
+      "result": "Error: 28787309097545009/media_publish: Media ID is not available (code 9007)",
+      "reported": true
     },
     {
       "id": "ig-mon-1800",

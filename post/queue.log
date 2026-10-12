@@ -1,2 +1,4 @@
 2026-10-12 06:03 failed ig-mon-0900: Node.js v22.23.3
 2026-10-12 06:35 failed ig-mon-0910: Node.js v22.23.3
+2026-10-12 09:31 failed ig-mon-0900: Error: 28787309097545009/media_publish: Media ID is not available (code 9007)
+2026-10-12 09:31 failed ig-mon-0910: Error: 28787309097545009/media_publish: Media ID is not available (code 9007)

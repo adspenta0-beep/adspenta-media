@@ -8,7 +8,9 @@
       "kind": "image",
       "at": "2026-10-12T09:00",
       "media": "d17-launch-card.png",
-      "caption": "Adspenta. Finds it. Fixes it. Proves it.\n\nAd account management for agencies. It checks your clients' Meta and Google ads every day, suggests the fix with the reason, and nothing changes without your yes.\n\nThe trial is open today. Start at adspenta.com (link in bio).\n\n#PPC #MetaAds #AgencyLife"
+      "caption": "Adspenta. Finds it. Fixes it. Proves it.\n\nAd account management for agencies. It checks your clients' Meta and Google ads every day, suggests the fix with the reason, and nothing changes without your yes.\n\nThe trial is open today. Start at adspenta.com (link in bio).\n\n#PPC #MetaAds #AgencyLife",
+      "status": "failed",
+      "result": "Node.js v22.23.3"
     },
     {
       "id": "fb-mon-0900",

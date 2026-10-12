@@ -20,6 +20,11 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
         run: node -e "fetch('https://graph.instagram.com/v26.0/me?fields=username,account_type&access_token='+process.env.IG_TOKEN).then(r=>r.json()).then(j=>{if(j.error){console.error('token check failed:',j.error.message);process.exit(1)}console.log('token ok for',j.username,j.account_type)})"
+      - name: Check the account id (prints the username only)
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: node -e "const id=(process.env.IG_USER_ID||'').trim();console.log('id length',id.length);fetch('https://graph.instagram.com/v26.0/'+id+'?fields=username&access_token='+process.env.IG_TOKEN).then(r=>r.json()).then(j=>{if(j.error){console.error('id check failed:',j.error.message);process.exit(1)}console.log('id ok for',j.username)})"
       - name: Post what is due
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}

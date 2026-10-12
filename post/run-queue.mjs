@@ -27,8 +27,9 @@ for (const f of readdirSync(plans).filter((n) => n.endsWith(".json"))) {
     if (now - t > GRACE) { it.status = "skipped"; it.result = `PC was off or job not running at ${it.at}`; changed = true; appendFileSync(log, `${stamp()} skipped ${it.id}\n`); continue; }
     const media = it.media.split(",").map((m) => plan.base + m.trim()).join(",");
     const r = spawnSync(process.execPath, [join(here, "ig-post.mjs"), it.kind, media, it.caption ?? ""], { encoding: "utf8", env: process.env });
-    const out = (r.stdout + r.stderr).trim();
-    it.status = r.status === 0 ? "posted" : "failed"; it.result = out.split("\n").pop(); changed = true;
+    const out = (r.stdout + r.stderr).trim(), lines = out.split("\n");
+    console.log(`${it.id}:\n${out}`);
+    it.status = r.status === 0 ? "posted" : "failed"; it.result = lines.find((l) => /^\w*Error:|^published|^dry run/.test(l)) ?? lines.pop(); changed = true;
     appendFileSync(log, `${stamp()} ${it.status} ${it.id}: ${it.result}\n`);
   }
   if (changed) writeFileSync(file, JSON.stringify(plan, null, 2));

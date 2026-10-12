@@ -59,6 +59,7 @@ if (kind === "image") {
   await waitReady(containerId);
 } else { console.error(`unknown kind ${kind}`); process.exit(1); }
 
+await waitReady(containerId); // images too: publishing before FINISHED fails with "Media ID is not available" (code 9007)
 if (dry) { console.log(`dry run: container ${containerId} ready, not published`); process.exit(0); }
 const pub = await call(`${IG}/media_publish`, { creation_id: containerId });
 const info = await call(pub.id, { fields: "permalink,timestamp" }, "GET");

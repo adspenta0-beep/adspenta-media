@@ -38,7 +38,9 @@
       "kind": "story",
       "at": "2026-10-12T09:10",
       "media": "d18-trial-open.png",
-      "caption": ""
+      "caption": "",
+      "status": "failed",
+      "result": "Node.js v22.23.3"
     },
     {
       "id": "ig-mon-1800",

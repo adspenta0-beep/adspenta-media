@@ -33,4 +33,5 @@ for (const f of readdirSync(plans).filter((n) => n.endsWith(".json"))) {
     appendFileSync(log, `${stamp()} ${it.status} ${it.id}: ${it.result}\n`);
   }
   if (changed) writeFileSync(file, JSON.stringify(plan, null, 2));
+  if (plan.items.some((i) => i.status === "failed" && !i.reported)) { plan.items.forEach((i) => { if (i.status === "failed") i.reported = true; }); writeFileSync(file, JSON.stringify(plan, null, 2)); process.exitCode = 1; }
 }

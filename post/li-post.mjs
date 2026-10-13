@@ -90,11 +90,12 @@ const body = { author: AUTHOR, commentary: text, visibility: "PUBLIC", distribut
 if (content) body.content = content;
 const { id: postUrn } = await api("posts", body);
 if (!postUrn) throw new Error("post created but no x-restli-id returned; check the profile before retrying");
-let state = "";
-for (let i = 0; i < 12; i++) { // read back: a media post can sit in PUBLISH_REQUESTED for a few seconds
-  const { json } = await api(`posts/${enc(postUrn)}?viewContext=AUTHOR`, null, "GET");
-  state = json.lifecycleState; if (state === "PUBLISHED") break; if (state === "PUBLISH_FAILED") throw new Error("post PUBLISH_FAILED"); await sleep(5000);
-}
+// Read-back needs r_member_social, which LinkedIn restricts to approved partners; with w_member_social only, the GET
+// answers 403. So: try once, accept a 403, and trust the 201 + x-restli-id. A media post can sit in PUBLISH_REQUESTED
+// for a few seconds, which is why the comment waits below.
+try { const { json } = await api(`posts/${enc(postUrn)}?viewContext=AUTHOR`, null, "GET"); if (json.lifecycleState === "PUBLISH_FAILED") throw new Error("post PUBLISH_FAILED"); }
+catch (e) { if (!/-> 403/.test(e.message)) throw e; }
+await sleep(8000);
 if (opt.comment) {
   await sleep(3000);
   await api(`socialActions/${enc(postUrn)}/comments`, { actor: AUTHOR, object: postUrn, message: { text: opt.comment } });

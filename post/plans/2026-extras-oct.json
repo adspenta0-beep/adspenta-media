@@ -2,105 +2,359 @@
   "week": "Extra posts Tue 13 to Sun 25 Oct 2026 (second and third daily posts on IG and FB)",
   "base": "https://raw.githubusercontent.com/adspenta0-beep/adspenta-media/main/",
   "items": [
-    { "id": "x-ig-tue13-1200", "platform": "ig", "kind": "carousel", "at": "2026-10-13T12:00", "media": "d09-plain-words-pacing-01.png,d09-plain-words-pacing-02.png,d09-plain-words-pacing-03.png,d09-plain-words-pacing-04.png,d09-plain-words-pacing-05.png,d09-plain-words-pacing-06.png",
-      "caption": "Plain words, part 1: pacing.\n\nPacing is how fast the budget is being spent against the plan. Ahead by Thursday means the month runs out early. Behind means the client paid for reach they never got.\n\nSave this one; the next word is frequency.\n\nWhat's the ad word you'd most like explained in plain English?\n\n#PPC #GoogleAds #PaidMedia" },
-    { "id": "x-fb-tue13-1300", "platform": "fb", "kind": "photos", "at": "2026-10-13T13:00", "media": "d09-plain-words-pacing-01.png,d09-plain-words-pacing-02.png,d09-plain-words-pacing-03.png,d09-plain-words-pacing-04.png,d09-plain-words-pacing-05.png,d09-plain-words-pacing-06.png",
-      "caption": "Plain words, part 1: pacing.\n\nPacing is how fast the budget is being spent against the plan. Ahead by Thursday means the month runs out early. Behind means the client paid for reach they never got.\n\nWhat's the ad word you'd most like explained in plain English?" },
-    { "id": "x-ig-tue13-2100", "platform": "ig", "kind": "reel", "at": "2026-10-13T21:00", "media": "V33-client-six-light-cta-9x16.mp4",
-      "caption": "One client. Easy. Two. Three. Four. Five. Six is where the stack wobbles.\n\nAdspenta notices every account, every day, and hands you only the decisions.\n\nAt what number did it start to wobble for you?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyOwner" },
-    { "id": "x-fb-tue13-2200", "platform": "fb", "kind": "reel", "at": "2026-10-13T22:00", "media": "V33-client-six-light-cta-9x16.mp4",
-      "caption": "One client. Easy. Two. Three. Four. Five. Six is where the stack wobbles.\n\nAdspenta notices every account, every day, and hands you only the decisions.\n\nAt what number did it start to wobble for you? AI voice." },
-
-    { "id": "x-ig-wed14-1200", "platform": "ig", "kind": "reel", "at": "2026-10-14T12:00", "media": "B03-client-nine-9x16.mp4",
-      "caption": "Client number nine just signed. Same team as before.\n\nAdspenta reads every account every day and hands you only the decisions, so nine feels like three.\n\nWhat number are you at?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyLife #PPC #MetaAds" },
-    { "id": "x-fb-wed14-1300", "platform": "fb", "kind": "reel", "at": "2026-10-14T13:00", "media": "B03-client-nine-9x16.mp4",
-      "caption": "Client number nine just signed. Same team as before.\n\nAdspenta reads every account every day and hands you only the decisions, so nine feels like three.\n\nWhat number are you at? AI voice." },
-    { "id": "x-ig-wed14-2100", "platform": "ig", "kind": "reel", "at": "2026-10-14T21:00", "media": "V12-an-assistant-who-asks-first-light-cta-9x16.mp4",
-      "caption": "Picture a new assistant who checks every client account every morning, then knocks and asks before touching anything.\n\n'Can I lower this budget? Here's why.' You say yes to two and no to one. It writes down every answer.\n\nThat's how Adspenta works.\n\nWould you want the knock, or the change already made?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #PaidMedia #AgencyOwner" },
-    { "id": "x-fb-wed14-2200", "platform": "fb", "kind": "reel", "at": "2026-10-14T22:00", "media": "V12-an-assistant-who-asks-first-light-cta-9x16.mp4",
-      "caption": "Picture a new assistant who checks every client account every morning, then knocks and asks before touching anything.\n\n'Can I lower this budget? Here's why.' You say yes to two and no to one. It writes down every answer. That's how Adspenta works.\n\nWould you want the knock, or the change already made? AI voice." },
-
-    { "id": "x-ig-thu15-1200", "platform": "ig", "kind": "carousel", "at": "2026-10-15T12:00", "media": "d02-spot-it-tired-ad-01.png,d02-spot-it-tired-ad-02.png,d02-spot-it-tired-ad-03.png,d02-spot-it-tired-ad-04.png,d02-spot-it-tired-ad-05.png,d02-spot-it-tired-ad-06.png",
-      "caption": "Spot it, part 2. One of these ads is tired. Which one?\n\nSwipe for the answer and the two numbers that give it away. Example figures.\n\nAdspenta checks frequency and click rate on every ad, every day, and suggests the pause.\n\nDid you find it before the answer slide?\n\n#MetaAds #PPC #AgencyLife" },
-    { "id": "x-fb-thu15-1300", "platform": "fb", "kind": "photos", "at": "2026-10-15T13:00", "media": "d02-spot-it-tired-ad-01.png,d02-spot-it-tired-ad-02.png,d02-spot-it-tired-ad-03.png,d02-spot-it-tired-ad-04.png,d02-spot-it-tired-ad-05.png,d02-spot-it-tired-ad-06.png",
-      "caption": "Spot it, part 2. One of these ads is tired. Which one?\n\nThe answer and the two numbers that give it away are in the slides. Example figures.\n\nDid you find it before the answer slide?" },
-    { "id": "x-ig-thu15-2100", "platform": "ig", "kind": "reel", "at": "2026-10-15T21:00", "media": "V20-monday-0900-thirty-accounts-light-cta-9x16.mp4",
-      "caption": "Monday, nine o'clock. Thirty client accounts.\n\nAdspenta has already read them all. 27 on plan, 3 need you, each with the fix.\n\nWhat does your Monday 9am look like?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #GoogleAds #AgencyOwner" },
-    { "id": "x-fb-thu15-2200", "platform": "fb", "kind": "reel", "at": "2026-10-15T22:00", "media": "V20-monday-0900-thirty-accounts-light-cta-9x16.mp4",
-      "caption": "Monday, nine o'clock. Thirty client accounts.\n\nAdspenta has already read them all. 27 on plan, 3 need you, each with the fix.\n\nWhat does your Monday 9am look like? AI voice." },
-
-    { "id": "x-ig-fri16-1200", "platform": "ig", "kind": "reel", "at": "2026-10-16T12:00", "media": "V11-would-you-let-an-ai-spend-cta-9x16.mp4",
-      "caption": "Would you let an AI spend your client's money?\n\nIn Adspenta it can't. It looks and suggests. Only the software sends a change, and only after your yes.\n\nWould you?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#MetaAds #PPC #AgencyOwner" },
-    { "id": "x-fb-fri16-1300", "platform": "fb", "kind": "reel", "at": "2026-10-16T13:00", "media": "V11-would-you-let-an-ai-spend-cta-9x16.mp4",
-      "caption": "Would you let an AI spend your client's money?\n\nIn Adspenta it can't. It looks and suggests. Only the software sends a change, and only after your yes.\n\nWould you? AI voice." },
-
-    { "id": "x-ig-sat17-1200", "platform": "ig", "kind": "carousel", "at": "2026-10-17T12:00", "media": "d05-five-silent-failures-01.png,d05-five-silent-failures-02.png,d05-five-silent-failures-03.png,d05-five-silent-failures-04.png,d05-five-silent-failures-05.png,d05-five-silent-failures-06.png,d05-five-silent-failures-07.png,d05-five-silent-failures-08.png",
-      "caption": "Five things that go wrong in an ad account without a single alert.\n\nA tag that stops firing. A budget ending on a Friday. A disapproved ad nobody saw. A read that came back as zero. A rule that could never trip.\n\nEach slide ends with the one check that catches it.\n\nWhich of the five has happened to you?\n\n#PPC #GoogleAds #AgencyLife" },
-    { "id": "x-fb-sat17-1300", "platform": "fb", "kind": "photos", "at": "2026-10-17T13:00", "media": "d05-five-silent-failures-01.png,d05-five-silent-failures-02.png,d05-five-silent-failures-03.png,d05-five-silent-failures-04.png,d05-five-silent-failures-05.png,d05-five-silent-failures-06.png,d05-five-silent-failures-07.png,d05-five-silent-failures-08.png",
-      "caption": "Five things that go wrong in an ad account without a single alert.\n\nA tag that stops firing. A budget ending on a Friday. A disapproved ad nobody saw. A read that came back as zero. A rule that could never trip. Each slide ends with the one check that catches it.\n\nWhich of the five has happened to you?" },
-    { "id": "x-ig-sat17-2100", "platform": "ig", "kind": "reel", "at": "2026-10-17T21:00", "media": "V09-i-dont-trust-automated-anything-cta-9x16.mp4",
-      "caption": "'I don't trust automated anything.' Good. Neither does Adspenta.\n\nThe AI can look and suggest. It can't change a thing on a platform. A person says yes, or a rule you set does.\n\nWhat would you never let software do in a client's account?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyOwner" },
-    { "id": "x-fb-sat17-2200", "platform": "fb", "kind": "reel", "at": "2026-10-17T22:00", "media": "V09-i-dont-trust-automated-anything-cta-9x16.mp4",
-      "caption": "'I don't trust automated anything.' Good. Neither does Adspenta.\n\nThe AI can look and suggest. It can't change a thing on a platform. A person says yes, or a rule you set does.\n\nWhat would you never let software do in a client's account? AI voice." },
-
-    { "id": "x-ig-sun18-1200", "platform": "ig", "kind": "reel", "at": "2026-10-18T12:00", "media": "V55-big-agency-process-small-team-light-cta-9x16.mp4",
-      "caption": "Big agencies have a process for every change. Someone checks it, someone approves it, someone writes it down.\n\nThree people, twenty clients? Adspenta gives you the same process.\n\nHow big is your team?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyLife #PPC #PaidMedia" },
-    { "id": "x-fb-sun18-1300", "platform": "fb", "kind": "reel", "at": "2026-10-18T13:00", "media": "V55-big-agency-process-small-team-light-cta-9x16.mp4",
-      "caption": "Big agencies have a process for every change. Someone checks it, someone approves it, someone writes it down.\n\nThree people, twenty clients? Adspenta gives you the same process.\n\nHow big is your team? AI voice." },
-
-    { "id": "x-ig-mon19-1200", "platform": "ig", "kind": "carousel", "at": "2026-10-19T12:00", "media": "d03-spot-it-runaway-budget-01.png,d03-spot-it-runaway-budget-02.png,d03-spot-it-runaway-budget-03.png,d03-spot-it-runaway-budget-04.png,d03-spot-it-runaway-budget-05.png,d03-spot-it-runaway-budget-06.png",
-      "caption": "Spot it, part 3. One of these budgets is running away. Which one?\n\nSwipe for the answer. Example figures.\n\nAdspenta compares spend to plan on every account every morning, and suggests the lower budget before Friday does the damage.\n\nDid you get it?\n\n#PPC #GoogleAds #AgencyOwner" },
-    { "id": "x-fb-mon19-1300", "platform": "fb", "kind": "photos", "at": "2026-10-19T13:00", "media": "d03-spot-it-runaway-budget-01.png,d03-spot-it-runaway-budget-02.png,d03-spot-it-runaway-budget-03.png,d03-spot-it-runaway-budget-04.png,d03-spot-it-runaway-budget-05.png,d03-spot-it-runaway-budget-06.png",
-      "caption": "Spot it, part 3. One of these budgets is running away. Which one?\n\nThe answer is in the slides. Example figures. Adspenta compares spend to plan on every account every morning.\n\nDid you get it?" },
-    { "id": "x-ig-mon19-2100", "platform": "ig", "kind": "reel", "at": "2026-10-19T21:00", "media": "B07-saturday-spend-9x16.mp4",
-      "caption": "Saturday. A client's spend runs ahead while nobody's looking.\n\nAdspenta checks spend against plan every day, weekends included, and flags it before Monday.\n\nWhen did you last open an account on a Saturday?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyLife" },
-    { "id": "x-fb-mon19-2200", "platform": "fb", "kind": "reel", "at": "2026-10-19T22:00", "media": "B07-saturday-spend-9x16.mp4",
-      "caption": "Saturday. A client's spend runs ahead while nobody's looking.\n\nAdspenta checks spend against plan every day, weekends included, and flags it before Monday.\n\nWhen did you last open an account on a Saturday? AI voice." },
-
-    { "id": "x-ig-tue20-1200", "platform": "ig", "kind": "reel", "at": "2026-10-20T12:00", "media": "V40-1630-the-client-call-cta-9x16.mp4",
-      "caption": "Four thirty. The client call. 'Did last month's changes work?'\n\nAdspenta measures every change at 7 and 14 days: improved, worse, too early. Honest answers, ready.\n\nWhat do you say when the answer is 'worse'?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyOwner #PPC #PaidMedia" },
-    { "id": "x-fb-tue20-1300", "platform": "fb", "kind": "reel", "at": "2026-10-20T13:00", "media": "V40-1630-the-client-call-cta-9x16.mp4",
-      "caption": "Four thirty. The client call. 'Did last month's changes work?'\n\nAdspenta measures every change at 7 and 14 days: improved, worse, too early. Honest answers, ready.\n\nWhat do you say when the answer is 'worse'? AI voice." },
-
-    { "id": "x-ig-wed21-1200", "platform": "ig", "kind": "carousel", "at": "2026-10-21T12:00", "media": "d10-plain-words-frequency-01.png,d10-plain-words-frequency-02.png,d10-plain-words-frequency-03.png,d10-plain-words-frequency-04.png,d10-plain-words-frequency-05.png",
-      "caption": "Plain words, part 2: frequency.\n\nFrequency is how many times the same person has seen your ad. Past a point they stop looking and the clicks drop, but the budget keeps paying.\n\nSave it. Part 3 is tracking.\n\nWhat's your 'too many times' number?\n\n#MetaAds #PPC #PaidMedia" },
-    { "id": "x-fb-wed21-1300", "platform": "fb", "kind": "photos", "at": "2026-10-21T13:00", "media": "d10-plain-words-frequency-01.png,d10-plain-words-frequency-02.png,d10-plain-words-frequency-03.png,d10-plain-words-frequency-04.png,d10-plain-words-frequency-05.png",
-      "caption": "Plain words, part 2: frequency.\n\nFrequency is how many times the same person has seen your ad. Past a point they stop looking and the clicks drop, but the budget keeps paying.\n\nWhat's your 'too many times' number?" },
-    { "id": "x-ig-wed21-2100", "platform": "ig", "kind": "reel", "at": "2026-10-21T21:00", "media": "V39-you-dont-know-its-drifting-cta-9x16.mp4",
-      "caption": "Something in your accounts moved overnight. Not a crash. A slow drift.\n\nSpend a little ahead, results a little behind. You'd spot it in a week, maybe two. Adspenta spots it the next morning and brings you the fix.\n\nWhen did you last catch a drift before the client did?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #GoogleAds #AgencyLife" },
-    { "id": "x-fb-wed21-2200", "platform": "fb", "kind": "reel", "at": "2026-10-21T22:00", "media": "V39-you-dont-know-its-drifting-cta-9x16.mp4",
-      "caption": "Something in your accounts moved overnight. Not a crash. A slow drift.\n\nSpend a little ahead, results a little behind. You'd spot it in a week, maybe two. Adspenta spots it the next morning and brings you the fix.\n\nWhen did you last catch a drift before the client did? AI voice." },
-
-    { "id": "x-ig-thu22-1200", "platform": "ig", "kind": "reel", "at": "2026-10-22T12:00", "media": "B04-before-your-first-hire-9x16.mp4",
-      "caption": "Thinking of hiring a junior just to check the ad accounts? Don't.\n\nHire someone to help you grow. Adspenta does the daily checking: every client account, every day, with the fix for anything that needs you.\n\nWhat would your first hire do with the hours back?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyOwner #PPC #AgencyLife" },
-    { "id": "x-fb-thu22-1300", "platform": "fb", "kind": "reel", "at": "2026-10-22T13:00", "media": "B04-before-your-first-hire-9x16.mp4",
-      "caption": "Thinking of hiring a junior just to check the ad accounts? Don't.\n\nHire someone to help you grow. Adspenta does the daily checking: every client account, every day, with the fix for anything that needs you.\n\nWhat would your first hire do with the hours back? AI voice." },
-    { "id": "x-ig-thu22-2100", "platform": "ig", "kind": "reel", "at": "2026-10-22T21:00", "media": "V48-the-tired-ad-light-cta-9x16.mp4",
-      "caption": "This ad was great. Three weeks ago.\n\nNow the same people have seen it five times and scroll straight past, but the budget keeps paying. Adspenta spots the tired ad, shows you the numbers and suggests a pause. You say yes, or not now.\n\nHow long do your ads usually run before anyone checks?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#MetaAds #PPC #PaidMedia" },
-    { "id": "x-fb-thu22-2200", "platform": "fb", "kind": "reel", "at": "2026-10-22T22:00", "media": "V48-the-tired-ad-light-cta-9x16.mp4",
-      "caption": "This ad was great. Three weeks ago.\n\nNow the same people have seen it five times and scroll straight past, but the budget keeps paying. Adspenta spots the tired ad, shows you the numbers and suggests a pause.\n\nHow long do your ads usually run before anyone checks? AI voice." },
-
-    { "id": "x-ig-fri23-1200", "platform": "ig", "kind": "carousel", "at": "2026-10-23T12:00", "media": "d12-three-client-questions-01.png,d12-three-client-questions-02.png,d12-three-client-questions-03.png,d12-three-client-questions-04.png,d12-three-client-questions-05.png,d12-three-client-questions-06.png,d12-three-client-questions-07.png,d12-three-client-questions-08.png",
-      "caption": "The three questions every client asks, and the answer that ends the call in one minute.\n\n'What changed?' 'Why?' 'Did it work?' Adspenta keeps the change, the reason, who said yes and the result at 7 and 14 days, for every account.\n\nWhich of the three takes you longest to answer today?\n\n#AgencyLife #PPC #AgencyOwner" },
-    { "id": "x-fb-fri23-1300", "platform": "fb", "kind": "photos", "at": "2026-10-23T13:00", "media": "d12-three-client-questions-01.png,d12-three-client-questions-02.png,d12-three-client-questions-03.png,d12-three-client-questions-04.png,d12-three-client-questions-05.png,d12-three-client-questions-06.png,d12-three-client-questions-07.png,d12-three-client-questions-08.png",
-      "caption": "The three questions every client asks, and the answer that ends the call in one minute.\n\n'What changed?' 'Why?' 'Did it work?' Adspenta keeps the change, the reason, who said yes and the result at 7 and 14 days.\n\nWhich of the three takes you longest to answer today?" },
-
-    { "id": "x-ig-sat24-1200", "platform": "ig", "kind": "reel", "at": "2026-10-24T12:00", "media": "V54-the-runaway-budget-cta-9x16.mp4",
-      "caption": "Your plan said four hundred a day. By Thursday, spend is running twenty-two percent ahead, and nobody's looked.\n\nOn its daily read, Adspenta spots it, suggests a lower budget, shows you why, and waits for your yes.\n\nWhen did you last find a runaway budget before the invoice did?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #GoogleAds #AgencyOwner" },
-    { "id": "x-fb-sat24-1300", "platform": "fb", "kind": "reel", "at": "2026-10-24T13:00", "media": "V54-the-runaway-budget-cta-9x16.mp4",
-      "caption": "Your plan said four hundred a day. By Thursday, spend is running twenty-two percent ahead, and nobody's looked.\n\nOn its daily read, Adspenta spots it, suggests a lower budget, shows you why, and waits for your yes.\n\nWhen did you last find a runaway budget before the invoice did? AI voice." },
-    { "id": "x-ig-sat24-2100", "platform": "ig", "kind": "reel", "at": "2026-10-24T21:00", "media": "V44-old-monday-new-monday-light-9x16.mp4",
-      "caption": "The old Monday: twelve logins, twelve spreadsheets, coffee gone cold.\n\nThe new Monday: every account already read, three that need you, each with the fix and the reasons. Every yes written down.\n\nWhich Monday is yours right now?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyLife #PPC #PaidMedia" },
-    { "id": "x-fb-sat24-2200", "platform": "fb", "kind": "reel", "at": "2026-10-24T22:00", "media": "V44-old-monday-new-monday-light-9x16.mp4",
-      "caption": "The old Monday: twelve logins, twelve spreadsheets, coffee gone cold.\n\nThe new Monday: every account already read, three that need you, each with the fix and the reasons. Every yes written down.\n\nWhich Monday is yours right now? AI voice." },
-
-    { "id": "x-ig-sun25-1200", "platform": "ig", "kind": "carousel", "at": "2026-10-25T12:00", "media": "d16-honest-answers-01.png,d16-honest-answers-02.png,d16-honest-answers-03.png,d16-honest-answers-04.png,d16-honest-answers-05.png,d16-honest-answers-06.png,d16-honest-answers-07.png",
-      "caption": "Honest answers. Is it ready? Who is it for? What can it not do?\n\nSeven slides, no spin: what Adspenta does today, what it refuses to do, and who should not bother.\n\nAnything we didn't answer? Ask below.\n\n#PPC #AgencyOwner #PaidMedia" },
-    { "id": "x-fb-sun25-1300", "platform": "fb", "kind": "photos", "at": "2026-10-25T13:00", "media": "d16-honest-answers-01.png,d16-honest-answers-02.png,d16-honest-answers-03.png,d16-honest-answers-04.png,d16-honest-answers-05.png,d16-honest-answers-06.png,d16-honest-answers-07.png",
-      "caption": "Honest answers. Is it ready? Who is it for? What can it not do?\n\nSeven slides, no spin: what Adspenta does today, what it refuses to do, and who should not bother.\n\nAnything we didn't answer? Ask below." },
-    { "id": "x-ig-sun25-2100", "platform": "ig", "kind": "reel", "at": "2026-10-25T21:00", "media": "V51-the-handover-cta-9x16.mp4",
-      "caption": "Sam's off for two weeks. You're covering Sam's clients.\n\nWhy is this budget lower? Why's that ad paused? Sam isn't answering. With Adspenta you don't need to ask: every change has its reasons and who said yes, written down.\n\nHow do handovers work in your agency today?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyLife #PPC #AgencyOwner" },
-    { "id": "x-fb-sun25-2200", "platform": "fb", "kind": "reel", "at": "2026-10-25T22:00", "media": "V51-the-handover-cta-9x16.mp4",
-      "caption": "Sam's off for two weeks. You're covering Sam's clients.\n\nWhy is this budget lower? Why's that ad paused? Sam isn't answering. With Adspenta you don't need to ask: every change has its reasons and who said yes, written down.\n\nHow do handovers work in your agency today? AI voice." }
+    {
+      "id": "x-ig-tue13-1200",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-13T12:00",
+      "media": "d09-plain-words-pacing-01.png,d09-plain-words-pacing-02.png,d09-plain-words-pacing-03.png,d09-plain-words-pacing-04.png,d09-plain-words-pacing-05.png,d09-plain-words-pacing-06.png",
+      "caption": "Plain words, part 1: pacing.\n\nPacing is how fast the budget is being spent against the plan. Ahead by Thursday means the month runs out early. Behind means the client paid for reach they never got.\n\nSave this one; the next word is frequency.\n\nWhat's the ad word you'd most like explained in plain English?\n\n#PPC #GoogleAds #PaidMedia",
+      "status": "posted",
+      "result": "published carousel: https://www.instagram.com/p/DebcS9OG5KF/"
+    },
+    {
+      "id": "x-fb-tue13-1300",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-13T13:00",
+      "media": "d09-plain-words-pacing-01.png,d09-plain-words-pacing-02.png,d09-plain-words-pacing-03.png,d09-plain-words-pacing-04.png,d09-plain-words-pacing-05.png,d09-plain-words-pacing-06.png",
+      "caption": "Plain words, part 1: pacing.\n\nPacing is how fast the budget is being spent against the plan. Ahead by Thursday means the month runs out early. Behind means the client paid for reach they never got.\n\nWhat's the ad word you'd most like explained in plain English?"
+    },
+    {
+      "id": "x-ig-tue13-2100",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-13T21:00",
+      "media": "V33-client-six-light-cta-9x16.mp4",
+      "caption": "One client. Easy. Two. Three. Four. Five. Six is where the stack wobbles.\n\nAdspenta notices every account, every day, and hands you only the decisions.\n\nAt what number did it start to wobble for you?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyOwner"
+    },
+    {
+      "id": "x-fb-tue13-2200",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-13T22:00",
+      "media": "V33-client-six-light-cta-9x16.mp4",
+      "caption": "One client. Easy. Two. Three. Four. Five. Six is where the stack wobbles.\n\nAdspenta notices every account, every day, and hands you only the decisions.\n\nAt what number did it start to wobble for you? AI voice."
+    },
+    {
+      "id": "x-ig-wed14-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-14T12:00",
+      "media": "B03-client-nine-9x16.mp4",
+      "caption": "Client number nine just signed. Same team as before.\n\nAdspenta reads every account every day and hands you only the decisions, so nine feels like three.\n\nWhat number are you at?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyLife #PPC #MetaAds"
+    },
+    {
+      "id": "x-fb-wed14-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-14T13:00",
+      "media": "B03-client-nine-9x16.mp4",
+      "caption": "Client number nine just signed. Same team as before.\n\nAdspenta reads every account every day and hands you only the decisions, so nine feels like three.\n\nWhat number are you at? AI voice."
+    },
+    {
+      "id": "x-ig-wed14-2100",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-14T21:00",
+      "media": "V12-an-assistant-who-asks-first-light-cta-9x16.mp4",
+      "caption": "Picture a new assistant who checks every client account every morning, then knocks and asks before touching anything.\n\n'Can I lower this budget? Here's why.' You say yes to two and no to one. It writes down every answer.\n\nThat's how Adspenta works.\n\nWould you want the knock, or the change already made?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #PaidMedia #AgencyOwner"
+    },
+    {
+      "id": "x-fb-wed14-2200",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-14T22:00",
+      "media": "V12-an-assistant-who-asks-first-light-cta-9x16.mp4",
+      "caption": "Picture a new assistant who checks every client account every morning, then knocks and asks before touching anything.\n\n'Can I lower this budget? Here's why.' You say yes to two and no to one. It writes down every answer. That's how Adspenta works.\n\nWould you want the knock, or the change already made? AI voice."
+    },
+    {
+      "id": "x-ig-thu15-1200",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-15T12:00",
+      "media": "d02-spot-it-tired-ad-01.png,d02-spot-it-tired-ad-02.png,d02-spot-it-tired-ad-03.png,d02-spot-it-tired-ad-04.png,d02-spot-it-tired-ad-05.png,d02-spot-it-tired-ad-06.png",
+      "caption": "Spot it, part 2. One of these ads is tired. Which one?\n\nSwipe for the answer and the two numbers that give it away. Example figures.\n\nAdspenta checks frequency and click rate on every ad, every day, and suggests the pause.\n\nDid you find it before the answer slide?\n\n#MetaAds #PPC #AgencyLife"
+    },
+    {
+      "id": "x-fb-thu15-1300",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-15T13:00",
+      "media": "d02-spot-it-tired-ad-01.png,d02-spot-it-tired-ad-02.png,d02-spot-it-tired-ad-03.png,d02-spot-it-tired-ad-04.png,d02-spot-it-tired-ad-05.png,d02-spot-it-tired-ad-06.png",
+      "caption": "Spot it, part 2. One of these ads is tired. Which one?\n\nThe answer and the two numbers that give it away are in the slides. Example figures.\n\nDid you find it before the answer slide?"
+    },
+    {
+      "id": "x-ig-thu15-2100",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-15T21:00",
+      "media": "V20-monday-0900-thirty-accounts-light-cta-9x16.mp4",
+      "caption": "Monday, nine o'clock. Thirty client accounts.\n\nAdspenta has already read them all. 27 on plan, 3 need you, each with the fix.\n\nWhat does your Monday 9am look like?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #GoogleAds #AgencyOwner"
+    },
+    {
+      "id": "x-fb-thu15-2200",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-15T22:00",
+      "media": "V20-monday-0900-thirty-accounts-light-cta-9x16.mp4",
+      "caption": "Monday, nine o'clock. Thirty client accounts.\n\nAdspenta has already read them all. 27 on plan, 3 need you, each with the fix.\n\nWhat does your Monday 9am look like? AI voice."
+    },
+    {
+      "id": "x-ig-fri16-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-16T12:00",
+      "media": "V11-would-you-let-an-ai-spend-cta-9x16.mp4",
+      "caption": "Would you let an AI spend your client's money?\n\nIn Adspenta it can't. It looks and suggests. Only the software sends a change, and only after your yes.\n\nWould you?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#MetaAds #PPC #AgencyOwner"
+    },
+    {
+      "id": "x-fb-fri16-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-16T13:00",
+      "media": "V11-would-you-let-an-ai-spend-cta-9x16.mp4",
+      "caption": "Would you let an AI spend your client's money?\n\nIn Adspenta it can't. It looks and suggests. Only the software sends a change, and only after your yes.\n\nWould you? AI voice."
+    },
+    {
+      "id": "x-ig-sat17-1200",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-17T12:00",
+      "media": "d05-five-silent-failures-01.png,d05-five-silent-failures-02.png,d05-five-silent-failures-03.png,d05-five-silent-failures-04.png,d05-five-silent-failures-05.png,d05-five-silent-failures-06.png,d05-five-silent-failures-07.png,d05-five-silent-failures-08.png",
+      "caption": "Five things that go wrong in an ad account without a single alert.\n\nA tag that stops firing. A budget ending on a Friday. A disapproved ad nobody saw. A read that came back as zero. A rule that could never trip.\n\nEach slide ends with the one check that catches it.\n\nWhich of the five has happened to you?\n\n#PPC #GoogleAds #AgencyLife"
+    },
+    {
+      "id": "x-fb-sat17-1300",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-17T13:00",
+      "media": "d05-five-silent-failures-01.png,d05-five-silent-failures-02.png,d05-five-silent-failures-03.png,d05-five-silent-failures-04.png,d05-five-silent-failures-05.png,d05-five-silent-failures-06.png,d05-five-silent-failures-07.png,d05-five-silent-failures-08.png",
+      "caption": "Five things that go wrong in an ad account without a single alert.\n\nA tag that stops firing. A budget ending on a Friday. A disapproved ad nobody saw. A read that came back as zero. A rule that could never trip. Each slide ends with the one check that catches it.\n\nWhich of the five has happened to you?"
+    },
+    {
+      "id": "x-ig-sat17-2100",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-17T21:00",
+      "media": "V09-i-dont-trust-automated-anything-cta-9x16.mp4",
+      "caption": "'I don't trust automated anything.' Good. Neither does Adspenta.\n\nThe AI can look and suggest. It can't change a thing on a platform. A person says yes, or a rule you set does.\n\nWhat would you never let software do in a client's account?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyOwner"
+    },
+    {
+      "id": "x-fb-sat17-2200",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-17T22:00",
+      "media": "V09-i-dont-trust-automated-anything-cta-9x16.mp4",
+      "caption": "'I don't trust automated anything.' Good. Neither does Adspenta.\n\nThe AI can look and suggest. It can't change a thing on a platform. A person says yes, or a rule you set does.\n\nWhat would you never let software do in a client's account? AI voice."
+    },
+    {
+      "id": "x-ig-sun18-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-18T12:00",
+      "media": "V55-big-agency-process-small-team-light-cta-9x16.mp4",
+      "caption": "Big agencies have a process for every change. Someone checks it, someone approves it, someone writes it down.\n\nThree people, twenty clients? Adspenta gives you the same process.\n\nHow big is your team?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyLife #PPC #PaidMedia"
+    },
+    {
+      "id": "x-fb-sun18-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-18T13:00",
+      "media": "V55-big-agency-process-small-team-light-cta-9x16.mp4",
+      "caption": "Big agencies have a process for every change. Someone checks it, someone approves it, someone writes it down.\n\nThree people, twenty clients? Adspenta gives you the same process.\n\nHow big is your team? AI voice."
+    },
+    {
+      "id": "x-ig-mon19-1200",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-19T12:00",
+      "media": "d03-spot-it-runaway-budget-01.png,d03-spot-it-runaway-budget-02.png,d03-spot-it-runaway-budget-03.png,d03-spot-it-runaway-budget-04.png,d03-spot-it-runaway-budget-05.png,d03-spot-it-runaway-budget-06.png",
+      "caption": "Spot it, part 3. One of these budgets is running away. Which one?\n\nSwipe for the answer. Example figures.\n\nAdspenta compares spend to plan on every account every morning, and suggests the lower budget before Friday does the damage.\n\nDid you get it?\n\n#PPC #GoogleAds #AgencyOwner"
+    },
+    {
+      "id": "x-fb-mon19-1300",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-19T13:00",
+      "media": "d03-spot-it-runaway-budget-01.png,d03-spot-it-runaway-budget-02.png,d03-spot-it-runaway-budget-03.png,d03-spot-it-runaway-budget-04.png,d03-spot-it-runaway-budget-05.png,d03-spot-it-runaway-budget-06.png",
+      "caption": "Spot it, part 3. One of these budgets is running away. Which one?\n\nThe answer is in the slides. Example figures. Adspenta compares spend to plan on every account every morning.\n\nDid you get it?"
+    },
+    {
+      "id": "x-ig-mon19-2100",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-19T21:00",
+      "media": "B07-saturday-spend-9x16.mp4",
+      "caption": "Saturday. A client's spend runs ahead while nobody's looking.\n\nAdspenta checks spend against plan every day, weekends included, and flags it before Monday.\n\nWhen did you last open an account on a Saturday?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyLife"
+    },
+    {
+      "id": "x-fb-mon19-2200",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-19T22:00",
+      "media": "B07-saturday-spend-9x16.mp4",
+      "caption": "Saturday. A client's spend runs ahead while nobody's looking.\n\nAdspenta checks spend against plan every day, weekends included, and flags it before Monday.\n\nWhen did you last open an account on a Saturday? AI voice."
+    },
+    {
+      "id": "x-ig-tue20-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-20T12:00",
+      "media": "V40-1630-the-client-call-cta-9x16.mp4",
+      "caption": "Four thirty. The client call. 'Did last month's changes work?'\n\nAdspenta measures every change at 7 and 14 days: improved, worse, too early. Honest answers, ready.\n\nWhat do you say when the answer is 'worse'?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyOwner #PPC #PaidMedia"
+    },
+    {
+      "id": "x-fb-tue20-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-20T13:00",
+      "media": "V40-1630-the-client-call-cta-9x16.mp4",
+      "caption": "Four thirty. The client call. 'Did last month's changes work?'\n\nAdspenta measures every change at 7 and 14 days: improved, worse, too early. Honest answers, ready.\n\nWhat do you say when the answer is 'worse'? AI voice."
+    },
+    {
+      "id": "x-ig-wed21-1200",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-21T12:00",
+      "media": "d10-plain-words-frequency-01.png,d10-plain-words-frequency-02.png,d10-plain-words-frequency-03.png,d10-plain-words-frequency-04.png,d10-plain-words-frequency-05.png",
+      "caption": "Plain words, part 2: frequency.\n\nFrequency is how many times the same person has seen your ad. Past a point they stop looking and the clicks drop, but the budget keeps paying.\n\nSave it. Part 3 is tracking.\n\nWhat's your 'too many times' number?\n\n#MetaAds #PPC #PaidMedia"
+    },
+    {
+      "id": "x-fb-wed21-1300",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-21T13:00",
+      "media": "d10-plain-words-frequency-01.png,d10-plain-words-frequency-02.png,d10-plain-words-frequency-03.png,d10-plain-words-frequency-04.png,d10-plain-words-frequency-05.png",
+      "caption": "Plain words, part 2: frequency.\n\nFrequency is how many times the same person has seen your ad. Past a point they stop looking and the clicks drop, but the budget keeps paying.\n\nWhat's your 'too many times' number?"
+    },
+    {
+      "id": "x-ig-wed21-2100",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-21T21:00",
+      "media": "V39-you-dont-know-its-drifting-cta-9x16.mp4",
+      "caption": "Something in your accounts moved overnight. Not a crash. A slow drift.\n\nSpend a little ahead, results a little behind. You'd spot it in a week, maybe two. Adspenta spots it the next morning and brings you the fix.\n\nWhen did you last catch a drift before the client did?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #GoogleAds #AgencyLife"
+    },
+    {
+      "id": "x-fb-wed21-2200",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-21T22:00",
+      "media": "V39-you-dont-know-its-drifting-cta-9x16.mp4",
+      "caption": "Something in your accounts moved overnight. Not a crash. A slow drift.\n\nSpend a little ahead, results a little behind. You'd spot it in a week, maybe two. Adspenta spots it the next morning and brings you the fix.\n\nWhen did you last catch a drift before the client did? AI voice."
+    },
+    {
+      "id": "x-ig-thu22-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-22T12:00",
+      "media": "B04-before-your-first-hire-9x16.mp4",
+      "caption": "Thinking of hiring a junior just to check the ad accounts? Don't.\n\nHire someone to help you grow. Adspenta does the daily checking: every client account, every day, with the fix for anything that needs you.\n\nWhat would your first hire do with the hours back?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyOwner #PPC #AgencyLife"
+    },
+    {
+      "id": "x-fb-thu22-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-22T13:00",
+      "media": "B04-before-your-first-hire-9x16.mp4",
+      "caption": "Thinking of hiring a junior just to check the ad accounts? Don't.\n\nHire someone to help you grow. Adspenta does the daily checking: every client account, every day, with the fix for anything that needs you.\n\nWhat would your first hire do with the hours back? AI voice."
+    },
+    {
+      "id": "x-ig-thu22-2100",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-22T21:00",
+      "media": "V48-the-tired-ad-light-cta-9x16.mp4",
+      "caption": "This ad was great. Three weeks ago.\n\nNow the same people have seen it five times and scroll straight past, but the budget keeps paying. Adspenta spots the tired ad, shows you the numbers and suggests a pause. You say yes, or not now.\n\nHow long do your ads usually run before anyone checks?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#MetaAds #PPC #PaidMedia"
+    },
+    {
+      "id": "x-fb-thu22-2200",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-22T22:00",
+      "media": "V48-the-tired-ad-light-cta-9x16.mp4",
+      "caption": "This ad was great. Three weeks ago.\n\nNow the same people have seen it five times and scroll straight past, but the budget keeps paying. Adspenta spots the tired ad, shows you the numbers and suggests a pause.\n\nHow long do your ads usually run before anyone checks? AI voice."
+    },
+    {
+      "id": "x-ig-fri23-1200",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-23T12:00",
+      "media": "d12-three-client-questions-01.png,d12-three-client-questions-02.png,d12-three-client-questions-03.png,d12-three-client-questions-04.png,d12-three-client-questions-05.png,d12-three-client-questions-06.png,d12-three-client-questions-07.png,d12-three-client-questions-08.png",
+      "caption": "The three questions every client asks, and the answer that ends the call in one minute.\n\n'What changed?' 'Why?' 'Did it work?' Adspenta keeps the change, the reason, who said yes and the result at 7 and 14 days, for every account.\n\nWhich of the three takes you longest to answer today?\n\n#AgencyLife #PPC #AgencyOwner"
+    },
+    {
+      "id": "x-fb-fri23-1300",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-23T13:00",
+      "media": "d12-three-client-questions-01.png,d12-three-client-questions-02.png,d12-three-client-questions-03.png,d12-three-client-questions-04.png,d12-three-client-questions-05.png,d12-three-client-questions-06.png,d12-three-client-questions-07.png,d12-three-client-questions-08.png",
+      "caption": "The three questions every client asks, and the answer that ends the call in one minute.\n\n'What changed?' 'Why?' 'Did it work?' Adspenta keeps the change, the reason, who said yes and the result at 7 and 14 days.\n\nWhich of the three takes you longest to answer today?"
+    },
+    {
+      "id": "x-ig-sat24-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-24T12:00",
+      "media": "V54-the-runaway-budget-cta-9x16.mp4",
+      "caption": "Your plan said four hundred a day. By Thursday, spend is running twenty-two percent ahead, and nobody's looked.\n\nOn its daily read, Adspenta spots it, suggests a lower budget, shows you why, and waits for your yes.\n\nWhen did you last find a runaway budget before the invoice did?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #GoogleAds #AgencyOwner"
+    },
+    {
+      "id": "x-fb-sat24-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-24T13:00",
+      "media": "V54-the-runaway-budget-cta-9x16.mp4",
+      "caption": "Your plan said four hundred a day. By Thursday, spend is running twenty-two percent ahead, and nobody's looked.\n\nOn its daily read, Adspenta spots it, suggests a lower budget, shows you why, and waits for your yes.\n\nWhen did you last find a runaway budget before the invoice did? AI voice."
+    },
+    {
+      "id": "x-ig-sat24-2100",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-24T21:00",
+      "media": "V44-old-monday-new-monday-light-9x16.mp4",
+      "caption": "The old Monday: twelve logins, twelve spreadsheets, coffee gone cold.\n\nThe new Monday: every account already read, three that need you, each with the fix and the reasons. Every yes written down.\n\nWhich Monday is yours right now?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyLife #PPC #PaidMedia"
+    },
+    {
+      "id": "x-fb-sat24-2200",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-24T22:00",
+      "media": "V44-old-monday-new-monday-light-9x16.mp4",
+      "caption": "The old Monday: twelve logins, twelve spreadsheets, coffee gone cold.\n\nThe new Monday: every account already read, three that need you, each with the fix and the reasons. Every yes written down.\n\nWhich Monday is yours right now? AI voice."
+    },
+    {
+      "id": "x-ig-sun25-1200",
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-25T12:00",
+      "media": "d16-honest-answers-01.png,d16-honest-answers-02.png,d16-honest-answers-03.png,d16-honest-answers-04.png,d16-honest-answers-05.png,d16-honest-answers-06.png,d16-honest-answers-07.png",
+      "caption": "Honest answers. Is it ready? Who is it for? What can it not do?\n\nSeven slides, no spin: what Adspenta does today, what it refuses to do, and who should not bother.\n\nAnything we didn't answer? Ask below.\n\n#PPC #AgencyOwner #PaidMedia"
+    },
+    {
+      "id": "x-fb-sun25-1300",
+      "platform": "fb",
+      "kind": "photos",
+      "at": "2026-10-25T13:00",
+      "media": "d16-honest-answers-01.png,d16-honest-answers-02.png,d16-honest-answers-03.png,d16-honest-answers-04.png,d16-honest-answers-05.png,d16-honest-answers-06.png,d16-honest-answers-07.png",
+      "caption": "Honest answers. Is it ready? Who is it for? What can it not do?\n\nSeven slides, no spin: what Adspenta does today, what it refuses to do, and who should not bother.\n\nAnything we didn't answer? Ask below."
+    },
+    {
+      "id": "x-ig-sun25-2100",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-25T21:00",
+      "media": "V51-the-handover-cta-9x16.mp4",
+      "caption": "Sam's off for two weeks. You're covering Sam's clients.\n\nWhy is this budget lower? Why's that ad paused? Sam isn't answering. With Adspenta you don't need to ask: every change has its reasons and who said yes, written down.\n\nHow do handovers work in your agency today?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#AgencyLife #PPC #AgencyOwner"
+    },
+    {
+      "id": "x-fb-sun25-2200",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-25T22:00",
+      "media": "V51-the-handover-cta-9x16.mp4",
+      "caption": "Sam's off for two weeks. You're covering Sam's clients.\n\nWhy is this budget lower? Why's that ad paused? Sam isn't answering. With Adspenta you don't need to ask: every change has its reasons and who said yes, written down.\n\nHow do handovers work in your agency today? AI voice."
+    }
   ]
 }

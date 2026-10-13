@@ -159,6 +159,14 @@
       "caption": "Adspenta isn't for everyone.\n\nOne ad account you love checking by hand? You're fine without us. An agency with client after client that wants every change checked, approved and written down? Built for you.\n\nWhich one are you? AI voice.",
       "status": "scheduled",
       "result": "scheduled reel: id 1425003106434720 for 2026-10-18T20:00"
+    },
+    {
+      "id": "ig-v52-clean-test",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-13T17:32",
+      "media": "V52-one-person-eight-clients-clean-9x16.mp4",
+      "caption": "One person. Eight clients.\n\nYou can't open every account every day. Nobody can. Adspenta reads them all and brings you only what needs a decision, with the fix and the reasons.\n\nHow many accounts are you checking by hand right now?\n\nStart your trial at adspenta.com (bio). AI voice.\n\n#PPC #MetaAds #AgencyLife"
     }
   ]
 }

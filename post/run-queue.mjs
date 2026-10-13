@@ -21,9 +21,9 @@ for (const f of readdirSync(plans).filter((n) => n.endsWith(".json"))) {
   let changed = false;
   for (const it of plan.items) {
     if (it.platform !== "ig" && it.platform !== "li") continue;
-    if (it.platform === "li" && !process.env.LINKEDIN_TOKEN) continue; // LinkedIn not switched on yet: leave pending
     const t = new Date(it.at).getTime(), status = it.status ?? "pending";
     if (list) { console.log(`${status.padEnd(9)} ${it.at}  ${it.id}  ${it.kind}  ${it.result ?? ""}`); continue; }
+    if (it.platform === "li" && !process.env.LINKEDIN_TOKEN) continue; // LinkedIn not switched on yet: leave pending
     if (status !== "pending" || t > now) continue;
     if (now - t > GRACE) { it.status = "skipped"; it.result = `PC was off or job not running at ${it.at}`; changed = true; appendFileSync(log, `${stamp()} skipped ${it.id}\n`); continue; }
     const media = (it.media ?? "").split(",").filter(Boolean).map((m) => plan.base + m.trim()).join(",");

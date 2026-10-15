@@ -1,0 +1,20 @@
+{
+  "_what": "Read by the Adspenta operator console's Marketing page (read-only). Dates are YYYY-MM-DD. Update it from the social chat whenever a token is renewed, credits are used or reset, or a reminder is done.",
+  "tokens": [
+    { "name": "Instagram token", "expiresOn": "2026-12-10" },
+    { "name": "LinkedIn token", "expiresOn": "2026-12-12" }
+  ],
+  "credits": [
+    { "name": "Metricool (TikTok)", "left": 4, "of": 20, "resetsOn": "2026-10-31" },
+    { "name": "PostMCP (YouTube Shorts)", "left": 0, "of": 20, "resetsOn": "2026-11-01" }
+  ],
+  "reminders": [
+    { "on": "2026-10-22", "what": "Instagram, Facebook and TikTok plans run out on 25 Oct: write the next week" },
+    { "on": "2026-10-29", "what": "YouTube Shorts run out on 30 Oct: book the next batch (PostMCP credits reset 1 Nov, or move to YouTube's own API)" },
+    { "on": "2026-10-31", "what": "Metricool credits reset: schedule the next TikTok batch" },
+    { "on": "2026-11-06", "what": "LinkedIn posts run out on 11 Nov: write the next three weeks" },
+    { "on": "2026-11-11", "what": "Stories run out on 15 Nov: make the next month" },
+    { "on": "2026-12-08", "what": "Instagram token expires 10 Dec: renew it and update the GitHub secret" },
+    { "on": "2026-12-10", "what": "LinkedIn token expires 12 Dec: renew it and update the GitHub secret" }
+  ]
+}

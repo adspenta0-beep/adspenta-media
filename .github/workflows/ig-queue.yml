@@ -31,6 +31,8 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
           LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           TZ: Europe/Bucharest
         run: node post/run-queue.mjs
       - name: Save results

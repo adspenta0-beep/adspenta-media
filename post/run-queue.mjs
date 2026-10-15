@@ -37,9 +37,19 @@ for (const f of readdirSync(plans).filter((n) => n.endsWith(".json"))) {
       : it.platform === "fb" ? [join(here, "fb-post.mjs"), "story", media, ""]
       : [join(here, "ig-post.mjs"), it.kind, media, it.caption ?? ""];
     const r = spawnSync(process.execPath, args, { encoding: "utf8", env: process.env });
-    const out = (r.stdout + r.stderr).trim(), lines = out.split("\n");
+    const out = (r.stdout + r.stderr).trim(), lines = out.split("\n").map((l) => l.trim()).filter(Boolean);
+    const errLines = (r.stderr ?? "").split("\n").map((l) => l.trim()).filter(Boolean);
     console.log(`${it.id}:\n${out}`);
-    it.status = r.status === 0 ? "posted" : "failed"; it.result = lines.find((l) => /^\w*Error:|^published|^dry run/.test(l)) ?? lines.pop(); changed = true;
+    it.status = r.status === 0 ? "posted" : "failed";
+    // When the child crashes with an uncaught exception, Node prints the stack trace and ends with its version banner
+    // ("Node.js v22.23.3"). Taking the last line then records the banner as the failure reason (seen 12 Oct on ig-mon-0900),
+    // so on failure prefer the "TypeError: ..." message line (Node echoes the offending source line before it, which can
+    // also contain "Error"), then any line mentioning an error, then stderr, then the last line that is not the banner.
+    const banner = (l) => /^Node\.js v\d/.test(l);
+    it.result = r.status === 0
+      ? lines.find((l) => /^\w*Error:|^published|^dry run/.test(l)) ?? lines.at(-1) ?? ""
+      : lines.find((l) => /^\w*Error:/.test(l)) ?? lines.find((l) => /Error|error:/.test(l)) ?? errLines[0] ?? [...lines].reverse().find((l) => !banner(l)) ?? lines.at(-1) ?? `exit ${r.status ?? r.signal}`;
+    changed = true;
     appendFileSync(log, `${stamp()} ${it.status} ${it.id}: ${it.result}\n`);
   }
   if (changed) writeFileSync(file, JSON.stringify(plan, null, 2));

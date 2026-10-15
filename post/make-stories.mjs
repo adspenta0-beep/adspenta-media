@@ -8,8 +8,22 @@
 // feed post again (from the other plans), 21:30 a video. Facebook gets the same story 3 minutes after Instagram.
 // Pools rotate so nothing repeats within about a week. Decks use the "-tt" 1080x1920 JPG slides (TikTok and stories).
 import { readFileSync, writeFileSync, existsSync, readdirSync } from "node:fs";
+import { execFileSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+
+// Story images are fitted into a 1080x1920 canvas inside the safe zone (Instagram covers roughly the top 250 px with
+// the name bar and the bottom 300 px with the reply box, and zooms any non-9:16 image to fill the screen, cutting the
+// sides). The canvas colour is sampled from the image's corner so the padding is invisible. Output: <name>-story.jpg.
+const storyFit = (repo, file) => {
+  const out = file.replace(/\.(png|jpe?g)$/i, "") + "-story.jpg";
+  if (!existsSync(join(repo, out))) {
+    const px = execFileSync("ffmpeg", ["-v", "error", "-i", join(repo, file), "-vf", "crop=2:2:0:0", "-frames:v", "1", "-f", "rawvideo", "-pix_fmt", "rgb24", "-"]);
+    const color = "0x" + [...px.subarray(0, 3)].map((b) => b.toString(16).padStart(2, "0")).join("");
+    execFileSync("ffmpeg", ["-v", "error", "-y", "-i", join(repo, file), "-vf", `scale=960:1500:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2-40:color=${color}`, "-q:v", "2", "-pix_fmt", "yuvj420p", join(repo, out)]);
+  }
+  return out;
+};
 
 const here = dirname(fileURLToPath(import.meta.url));
 const [from, to, outRel] = process.argv.slice(2);
@@ -36,11 +50,13 @@ const prev = existsSync(out) ? JSON.parse(readFileSync(out, "utf8").replace(/^ï»
 const keep = new Map(prev.items.map((i) => [i.id, i]));
 const items = [];
 const push = (day, time, tag, media) => {
+  if (!/\.mp4$/i.test(media)) media = storyFit(repo, media); // images: safe-zone canvas; videos are 9:16 already
   for (const [platform, offset] of [["ig", 0], ["fb", 3]]) {
     const [h, m] = time.split(":").map(Number), mm = m + offset;
     const at = `${day}T${String(h).padStart(2, "0")}:${String(mm).padStart(2, "0")}`;
-    const id = `st-${platform}-${day}-${tag}`;
-    items.push(keep.get(id) ?? { id, platform, kind: "story", at, media });
+    const id = `st-${platform}-${day}-${tag}`, old = keep.get(id);
+    // keep posted/skipped/failed history; pending items take the current media (so a fix like this one reaches them)
+    items.push(old && old.status ? old : { ...(old ?? {}), id, platform, kind: "story", at, media });
   }
 };
 

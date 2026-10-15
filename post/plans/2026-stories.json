@@ -97,14 +97,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-15T21:30",
-      "media": "B03-client-nine-9x16.mp4"
+      "media": "B03-client-nine-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4008662128361492679"
     },
     {
       "id": "st-fb-2026-10-15-video-2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-15T21:33",
-      "media": "B03-client-nine-9x16.mp4"
+      "media": "B03-client-nine-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 2929944857349353"
     },
     {
       "id": "st-ig-2026-10-16-deck-a",

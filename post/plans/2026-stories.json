@@ -115,28 +115,36 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-16T09:30",
-      "media": "d02-spot-it-tired-ad-tt-01-story.jpg"
+      "media": "d02-spot-it-tired-ad-tt-01-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4009026830929941823"
     },
     {
       "id": "st-ig-2026-10-16-deck-b",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-16T09:32",
-      "media": "d02-spot-it-tired-ad-tt-02-story.jpg"
+      "media": "d02-spot-it-tired-ad-tt-02-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4009026913356395177"
     },
     {
       "id": "st-fb-2026-10-16-deck-a",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-16T09:33",
-      "media": "d02-spot-it-tired-ad-tt-01-story.jpg"
+      "media": "d02-spot-it-tired-ad-tt-01-story.jpg",
+      "status": "posted",
+      "result": "published story: id 29620735354179849"
     },
     {
       "id": "st-fb-2026-10-16-deck-b",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-16T09:35",
-      "media": "d02-spot-it-tired-ad-tt-02-story.jpg"
+      "media": "d02-spot-it-tired-ad-tt-02-story.jpg",
+      "status": "posted",
+      "result": "published story: id 1331964435573374"
     },
     {
       "id": "st-ig-2026-10-16-video-1",

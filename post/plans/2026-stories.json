@@ -169,14 +169,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-16T15:30",
-      "media": "d17-launch-card-story.jpg"
+      "media": "d17-launch-card-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4009207345603878738"
     },
     {
       "id": "st-fb-2026-10-16-card",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-16T15:33",
-      "media": "d17-launch-card-story.jpg"
+      "media": "d17-launch-card-story.jpg",
+      "status": "posted",
+      "result": "published story: id 1131213023196427"
     },
     {
       "id": "st-ig-2026-10-16-feed",

@@ -151,14 +151,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-16T12:30",
-      "media": "B04-before-your-first-hire-9x16.mp4"
+      "media": "B04-before-your-first-hire-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4009119754157780629"
     },
     {
       "id": "st-fb-2026-10-16-video-1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-16T12:33",
-      "media": "B04-before-your-first-hire-9x16.mp4"
+      "media": "B04-before-your-first-hire-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 1135483559038463"
     },
     {
       "id": "st-ig-2026-10-16-card",

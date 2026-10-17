@@ -277,14 +277,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-17T15:30",
-      "media": "d18-trial-open-story.jpg"
+      "media": "d18-trial-open-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4009937558805255401"
     },
     {
       "id": "st-fb-2026-10-17-card",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-17T15:33",
-      "media": "d18-trial-open-story.jpg"
+      "media": "d18-trial-open-story.jpg",
+      "status": "posted",
+      "result": "published story: id 1106659711909880"
     },
     {
       "id": "st-ig-2026-10-17-feed",

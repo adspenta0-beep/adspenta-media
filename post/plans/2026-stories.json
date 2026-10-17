@@ -259,14 +259,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-17T12:30",
-      "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4"
+      "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4009835164586621769"
     },
     {
       "id": "st-fb-2026-10-17-video-1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-17T12:33",
-      "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4"
+      "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 1657687412620873"
     },
     {
       "id": "st-ig-2026-10-17-card",

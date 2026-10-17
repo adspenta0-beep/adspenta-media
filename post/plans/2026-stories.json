@@ -223,28 +223,36 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-17T09:30",
-      "media": "d03-spot-it-runaway-budget-tt-01-story.jpg"
+      "media": "d03-spot-it-runaway-budget-tt-01-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4009747634529426743"
     },
     {
       "id": "st-ig-2026-10-17-deck-b",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-17T09:32",
-      "media": "d03-spot-it-runaway-budget-tt-02-story.jpg"
+      "media": "d03-spot-it-runaway-budget-tt-02-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4009747720453909141"
     },
     {
       "id": "st-fb-2026-10-17-deck-a",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-17T09:33",
-      "media": "d03-spot-it-runaway-budget-tt-01-story.jpg"
+      "media": "d03-spot-it-runaway-budget-tt-01-story.jpg",
+      "status": "posted",
+      "result": "published story: id 963074209720913"
     },
     {
       "id": "st-fb-2026-10-17-deck-b",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-17T09:35",
-      "media": "d03-spot-it-runaway-budget-tt-02-story.jpg"
+      "media": "d03-spot-it-runaway-budget-tt-02-story.jpg",
+      "status": "posted",
+      "result": "published story: id 2236337643898539"
     },
     {
       "id": "st-ig-2026-10-17-video-1",

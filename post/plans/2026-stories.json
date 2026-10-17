@@ -313,14 +313,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-17T21:30",
-      "media": "V09-i-dont-trust-automated-anything-cta-9x16.mp4"
+      "media": "V09-i-dont-trust-automated-anything-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4010107807206254696"
     },
     {
       "id": "st-fb-2026-10-17-video-2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-17T21:33",
-      "media": "V09-i-dont-trust-automated-anything-cta-9x16.mp4"
+      "media": "V09-i-dont-trust-automated-anything-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 4507910466122993"
     },
     {
       "id": "st-ig-2026-10-18-deck-a",

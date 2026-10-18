@@ -403,14 +403,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-18T18:30",
-      "media": "V61-not-for-everyone-light-9x16.mp4"
+      "media": "V61-not-for-everyone-light-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4010741872658331295"
     },
     {
       "id": "st-fb-2026-10-18-feed",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-18T18:33",
-      "media": "V61-not-for-everyone-light-9x16.mp4"
+      "media": "V61-not-for-everyone-light-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 969182335686688"
     },
     {
       "id": "st-ig-2026-10-18-video-2",

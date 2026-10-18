@@ -331,28 +331,36 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-18T09:30",
-      "media": "d04-monday-checklist-tt-01-story.jpg"
+      "media": "d04-monday-checklist-tt-01-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4010472091904872466"
     },
     {
       "id": "st-ig-2026-10-18-deck-b",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-18T09:32",
-      "media": "d04-monday-checklist-tt-02-story.jpg"
+      "media": "d04-monday-checklist-tt-02-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4010472181604268385"
     },
     {
       "id": "st-fb-2026-10-18-deck-a",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-18T09:33",
-      "media": "d04-monday-checklist-tt-01-story.jpg"
+      "media": "d04-monday-checklist-tt-01-story.jpg",
+      "status": "posted",
+      "result": "published story: id 1407836768230084"
     },
     {
       "id": "st-fb-2026-10-18-deck-b",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-18T09:35",
-      "media": "d04-monday-checklist-tt-02-story.jpg"
+      "media": "d04-monday-checklist-tt-02-story.jpg",
+      "status": "posted",
+      "result": "published story: id 2109865112976587"
     },
     {
       "id": "st-ig-2026-10-18-video-1",

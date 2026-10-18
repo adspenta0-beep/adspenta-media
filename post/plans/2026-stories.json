@@ -385,14 +385,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-18T15:30",
-      "media": "post-cards-01-story.jpg"
+      "media": "post-cards-01-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4010662410260810242"
     },
     {
       "id": "st-fb-2026-10-18-card",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-18T15:33",
-      "media": "post-cards-01-story.jpg"
+      "media": "post-cards-01-story.jpg",
+      "status": "posted",
+      "result": "published story: id 1101333455926524"
     },
     {
       "id": "st-ig-2026-10-18-feed",

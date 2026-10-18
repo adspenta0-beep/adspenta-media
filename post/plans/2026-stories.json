@@ -367,14 +367,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-18T12:30",
-      "media": "V11-would-you-let-an-ai-spend-cta-9x16.mp4"
+      "media": "V11-would-you-let-an-ai-spend-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4010559878954278072"
     },
     {
       "id": "st-fb-2026-10-18-video-1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-18T12:33",
-      "media": "V11-would-you-let-an-ai-spend-cta-9x16.mp4"
+      "media": "V11-would-you-let-an-ai-spend-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 989874833402903"
     },
     {
       "id": "st-ig-2026-10-18-card",

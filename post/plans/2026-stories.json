@@ -529,14 +529,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-19T21:30",
-      "media": "V33-client-six-light-cta-9x16.mp4"
+      "media": "V33-client-six-light-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4011570918929715435"
     },
     {
       "id": "st-fb-2026-10-19-video-2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-19T21:33",
-      "media": "V33-client-six-light-cta-9x16.mp4"
+      "media": "V33-client-six-light-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 2201531103739321"
     },
     {
       "id": "st-ig-2026-10-20-deck-a",

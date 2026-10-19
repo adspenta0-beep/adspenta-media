@@ -475,14 +475,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-19T12:30",
-      "media": "V20-monday-0900-thirty-accounts-light-cta-9x16.mp4"
+      "media": "V20-monday-0900-thirty-accounts-light-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4011288880430912273"
     },
     {
       "id": "st-fb-2026-10-19-video-1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-19T12:33",
-      "media": "V20-monday-0900-thirty-accounts-light-cta-9x16.mp4"
+      "media": "V20-monday-0900-thirty-accounts-light-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 1104866592301699"
     },
     {
       "id": "st-ig-2026-10-19-card",

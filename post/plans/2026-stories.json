@@ -511,7 +511,9 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-19T18:30",
-      "media": "B01-spot-the-tired-ad-9x16.mp4"
+      "media": "B01-spot-the-tired-ad-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4011464371226352327"
     },
     {
       "id": "st-fb-2026-10-19-feed",

@@ -26,7 +26,9 @@
       "kind": "carousel",
       "at": "2026-10-20T18:00",
       "media": "carousel-3-silent-failures-brand-01.png,carousel-3-silent-failures-brand-02.png,carousel-3-silent-failures-brand-03.png,carousel-3-silent-failures-brand-04.png,carousel-3-silent-failures-brand-05.png,carousel-3-silent-failures-brand-06.png",
-      "caption": "Silent failures in ad tools: three that never raised an alert.\n\nError alerts only fire when something fails. These didn't fail. They stopped, or they could never trip.\n\nAdspenta's backups stopped twice and nothing failed: once the job never ran, once it ran, copied nothing and reported success. A Google read that was refused showed up as a zero. A fatigue detector compared a weekly frequency with a daily one, so it never fired.\n\nEach slide ends with one check you can run on your own setup this week.\n\nWhat in your agency would break without making a sound?\n\n#PPC #AgencyLife"
+      "caption": "Silent failures in ad tools: three that never raised an alert.\n\nError alerts only fire when something fails. These didn't fail. They stopped, or they could never trip.\n\nAdspenta's backups stopped twice and nothing failed: once the job never ran, once it ran, copied nothing and reported success. A Google read that was refused showed up as a zero. A fatigue detector compared a weekly frequency with a daily one, so it never fired.\n\nEach slide ends with one check you can run on your own setup this week.\n\nWhat in your agency would break without making a sound?\n\n#PPC #AgencyLife",
+      "status": "posted",
+      "result": "published carousel: https://www.instagram.com/p/DeuI6YjEbFX/"
     },
     {
       "id": "fb-tue20-1800",

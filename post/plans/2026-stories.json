@@ -651,564 +651,564 @@
       "result": "published story: id 1288345970101464"
     },
     {
-      "id": "st-ig-2026-10-21-deck-a",
+      "id": "st-ig-2026-10-21-g1",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-21T09:30",
-      "media": "d10-plain-words-frequency-tt-01-story.jpg"
+      "media": "G02-monthly-report-line-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-21-deck-b",
-      "platform": "ig",
-      "kind": "story",
-      "at": "2026-10-21T09:32",
-      "media": "d10-plain-words-frequency-tt-02-story.jpg"
-    },
-    {
-      "id": "st-fb-2026-10-21-deck-a",
+      "id": "st-fb-2026-10-21-g1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-21T09:33",
-      "media": "d10-plain-words-frequency-tt-01-story.jpg"
+      "media": "G02-monthly-report-line-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-21-deck-b",
-      "platform": "fb",
-      "kind": "story",
-      "at": "2026-10-21T09:35",
-      "media": "d10-plain-words-frequency-tt-02-story.jpg"
-    },
-    {
-      "id": "st-ig-2026-10-21-video-1",
+      "id": "st-ig-2026-10-21-g2",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-21T12:30",
-      "media": "V44-old-monday-new-monday-light-9x16.mp4"
+      "media": "G02-monthly-report-line-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-21-video-1",
+      "id": "st-fb-2026-10-21-g2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-21T12:33",
-      "media": "V44-old-monday-new-monday-light-9x16.mp4"
+      "media": "G02-monthly-report-line-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-21-card",
+      "id": "st-ig-2026-10-21-g3",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-21T15:30",
-      "media": "post-cards-04-story.jpg"
+      "media": "G08-the-missing-column-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-21-card",
+      "id": "st-fb-2026-10-21-g3",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-21T15:33",
-      "media": "post-cards-04-story.jpg"
+      "media": "G08-the-missing-column-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-21-feed",
+      "id": "st-ig-2026-10-21-g4",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-21T18:30",
-      "media": "d04-monday-checklist-01-story.jpg"
+      "media": "G02-monthly-report-line-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-21-feed",
+      "id": "st-fb-2026-10-21-g4",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-21T18:33",
-      "media": "d04-monday-checklist-01-story.jpg"
+      "media": "G02-monthly-report-line-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-21-video-2",
+      "id": "st-ig-2026-10-21-g5",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-21T21:30",
-      "media": "V48-the-tired-ad-light-cta-9x16.mp4"
+      "media": "G08-the-missing-column-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-21-video-2",
+      "id": "st-fb-2026-10-21-g5",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-21T21:33",
-      "media": "V48-the-tired-ad-light-cta-9x16.mp4"
+      "media": "G08-the-missing-column-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-22-deck-a",
+      "id": "st-ig-2026-10-22-g1",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-22T09:30",
-      "media": "d11-plain-words-tracking-tt-01-story.jpg"
+      "media": "G13-double-it-for-christmas-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-22-deck-b",
-      "platform": "ig",
-      "kind": "story",
-      "at": "2026-10-22T09:32",
-      "media": "d11-plain-words-tracking-tt-02-story.jpg"
-    },
-    {
-      "id": "st-fb-2026-10-22-deck-a",
+      "id": "st-fb-2026-10-22-g1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-22T09:33",
-      "media": "d11-plain-words-tracking-tt-01-story.jpg"
+      "media": "G13-double-it-for-christmas-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-22-deck-b",
-      "platform": "fb",
-      "kind": "story",
-      "at": "2026-10-22T09:35",
-      "media": "d11-plain-words-tracking-tt-02-story.jpg"
-    },
-    {
-      "id": "st-ig-2026-10-22-video-1",
+      "id": "st-ig-2026-10-22-g2",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-22T12:30",
-      "media": "V51-the-handover-cta-9x16.mp4"
+      "media": "G13-double-it-for-christmas-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-22-video-1",
+      "id": "st-fb-2026-10-22-g2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-22T12:33",
-      "media": "V51-the-handover-cta-9x16.mp4"
+      "media": "G13-double-it-for-christmas-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-22-card",
+      "id": "st-ig-2026-10-22-g3",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-22T15:30",
-      "media": "post-cards-05-story.jpg"
+      "media": "G07-applied-means-nothing-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-22-card",
+      "id": "st-fb-2026-10-22-g3",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-22T15:33",
-      "media": "post-cards-05-story.jpg"
+      "media": "G07-applied-means-nothing-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-22-feed",
+      "id": "st-ig-2026-10-22-g4",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-22T18:30",
-      "media": "voice-fourfour.mp4"
+      "media": "G13-double-it-for-christmas-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-22-feed",
+      "id": "st-fb-2026-10-22-g4",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-22T18:33",
-      "media": "voice-fourfour.mp4"
+      "media": "G13-double-it-for-christmas-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-22-video-2",
+      "id": "st-ig-2026-10-22-g5",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-22T21:30",
-      "media": "V52-one-person-eight-clients-cta-9x16.mp4"
+      "media": "G08-the-missing-column-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-22-video-2",
+      "id": "st-fb-2026-10-22-g5",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-22T21:33",
-      "media": "V52-one-person-eight-clients-cta-9x16.mp4"
+      "media": "G08-the-missing-column-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-23-deck-a",
+      "id": "st-ig-2026-10-23-g1",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-23T09:30",
-      "media": "d13-what-adspenta-is-tt-01-story.jpg"
+      "media": "G04-four-say-applied-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-23-deck-b",
-      "platform": "ig",
-      "kind": "story",
-      "at": "2026-10-23T09:32",
-      "media": "d13-what-adspenta-is-tt-02-story.jpg"
-    },
-    {
-      "id": "st-fb-2026-10-23-deck-a",
+      "id": "st-fb-2026-10-23-g1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-23T09:33",
-      "media": "d13-what-adspenta-is-tt-01-story.jpg"
+      "media": "G04-four-say-applied-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-23-deck-b",
-      "platform": "fb",
-      "kind": "story",
-      "at": "2026-10-23T09:35",
-      "media": "d13-what-adspenta-is-tt-02-story.jpg"
-    },
-    {
-      "id": "st-ig-2026-10-23-video-1",
+      "id": "st-ig-2026-10-23-g2",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-23T12:30",
-      "media": "V54-the-runaway-budget-cta-9x16.mp4"
+      "media": "G04-four-say-applied-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-23-video-1",
+      "id": "st-fb-2026-10-23-g2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-23T12:33",
-      "media": "V54-the-runaway-budget-cta-9x16.mp4"
+      "media": "G04-four-say-applied-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-23-card",
+      "id": "st-ig-2026-10-23-g3",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-23T15:30",
-      "media": "post-cards-06-story.jpg"
+      "media": "G07-applied-means-nothing-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-23-card",
+      "id": "st-fb-2026-10-23-g3",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-23T15:33",
-      "media": "post-cards-06-story.jpg"
+      "media": "G07-applied-means-nothing-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-23-feed",
+      "id": "st-ig-2026-10-23-g4",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-23T18:30",
-      "media": "V62-two-agencies-one-question-light-cta-9x16.mp4"
+      "media": "G04-four-say-applied-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-23-feed",
+      "id": "st-fb-2026-10-23-g4",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-23T18:33",
-      "media": "V62-two-agencies-one-question-light-cta-9x16.mp4"
+      "media": "G04-four-say-applied-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-23-video-2",
+      "id": "st-ig-2026-10-23-g5",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-23T21:30",
-      "media": "V55-big-agency-process-small-team-light-cta-9x16.mp4"
+      "media": "G07-applied-means-nothing-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-23-video-2",
+      "id": "st-fb-2026-10-23-g5",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-23T21:33",
-      "media": "V55-big-agency-process-small-team-light-cta-9x16.mp4"
+      "media": "G07-applied-means-nothing-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-24-deck-a",
+      "id": "st-ig-2026-10-24-g1",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-24T09:30",
-      "media": "d15-six-words-tt-01-story.jpg"
+      "media": "G00-five-slow-minutes-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-24-deck-b",
-      "platform": "ig",
-      "kind": "story",
-      "at": "2026-10-24T09:32",
-      "media": "d15-six-words-tt-02-story.jpg"
-    },
-    {
-      "id": "st-fb-2026-10-24-deck-a",
+      "id": "st-fb-2026-10-24-g1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-24T09:33",
-      "media": "d15-six-words-tt-01-story.jpg"
+      "media": "G00-five-slow-minutes-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-24-deck-b",
-      "platform": "fb",
-      "kind": "story",
-      "at": "2026-10-24T09:35",
-      "media": "d15-six-words-tt-02-story.jpg"
-    },
-    {
-      "id": "st-ig-2026-10-24-video-1",
+      "id": "st-ig-2026-10-24-g2",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-24T12:30",
-      "media": "V56-spot-the-one-that-needs-you-cta-9x16.mp4"
+      "media": "G00-five-slow-minutes-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-24-video-1",
+      "id": "st-fb-2026-10-24-g2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-24T12:33",
-      "media": "V56-spot-the-one-that-needs-you-cta-9x16.mp4"
+      "media": "G00-five-slow-minutes-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-24-card",
+      "id": "st-ig-2026-10-24-g3",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-24T15:30",
-      "media": "post-cards-07-v2-story.jpg"
+      "media": "G03-forty-changes-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-24-card",
+      "id": "st-fb-2026-10-24-g3",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-24T15:33",
-      "media": "post-cards-07-v2-story.jpg"
+      "media": "G03-forty-changes-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-24-feed",
+      "id": "st-ig-2026-10-24-g4",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-24T18:30",
-      "media": "d07-myth-ai-spends-money-01-story.jpg"
+      "media": "G00-five-slow-minutes-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-24-feed",
+      "id": "st-fb-2026-10-24-g4",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-24T18:33",
-      "media": "d07-myth-ai-spends-money-01-story.jpg"
+      "media": "G00-five-slow-minutes-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-24-video-2",
+      "id": "st-ig-2026-10-24-g5",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-24T21:30",
-      "media": "V59-how-do-you-know-cta-9x16.mp4"
+      "media": "G03-forty-changes-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-24-video-2",
+      "id": "st-fb-2026-10-24-g5",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-24T21:33",
-      "media": "V59-how-do-you-know-cta-9x16.mp4"
+      "media": "G03-forty-changes-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-25-deck-a",
+      "id": "st-ig-2026-10-25-g1",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-25T09:30",
-      "media": "d01-spot-it-account-tt-03-story.jpg"
+      "media": "G01-this-fix-made-it-worse-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-25-deck-b",
-      "platform": "ig",
-      "kind": "story",
-      "at": "2026-10-25T09:32",
-      "media": "d01-spot-it-account-tt-04-story.jpg"
-    },
-    {
-      "id": "st-fb-2026-10-25-deck-a",
+      "id": "st-fb-2026-10-25-g1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-25T09:33",
-      "media": "d01-spot-it-account-tt-03-story.jpg"
+      "media": "G01-this-fix-made-it-worse-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-25-deck-b",
-      "platform": "fb",
-      "kind": "story",
-      "at": "2026-10-25T09:35",
-      "media": "d01-spot-it-account-tt-04-story.jpg"
-    },
-    {
-      "id": "st-ig-2026-10-25-video-1",
+      "id": "st-ig-2026-10-25-g2",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-25T12:30",
-      "media": "V61-not-for-everyone-light-9x16.mp4"
+      "media": "G01-this-fix-made-it-worse-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-25-video-1",
+      "id": "st-fb-2026-10-25-g2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-25T12:33",
-      "media": "V61-not-for-everyone-light-9x16.mp4"
+      "media": "G01-this-fix-made-it-worse-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-25-card",
+      "id": "st-ig-2026-10-25-g3",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-25T15:30",
-      "media": "post-cards-07-story.jpg"
+      "media": "G03-forty-changes-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-25-card",
+      "id": "st-fb-2026-10-25-g3",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-25T15:33",
-      "media": "post-cards-07-story.jpg"
+      "media": "G03-forty-changes-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-25-feed",
+      "id": "st-ig-2026-10-25-g4",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-25T18:30",
-      "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4"
+      "media": "G01-this-fix-made-it-worse-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-25-feed",
+      "id": "st-fb-2026-10-25-g4",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-25T18:33",
-      "media": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4"
+      "media": "G01-this-fix-made-it-worse-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-25-video-2",
+      "id": "st-ig-2026-10-25-g5",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-25T21:30",
-      "media": "V62-two-agencies-one-question-light-cta-9x16.mp4"
+      "media": "G09-guess-the-verdict-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-25-video-2",
+      "id": "st-fb-2026-10-25-g5",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-25T21:33",
-      "media": "V62-two-agencies-one-question-light-cta-9x16.mp4"
+      "media": "G09-guess-the-verdict-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-26-deck-a",
+      "id": "st-ig-2026-10-26-g1",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-26T09:30",
-      "media": "d02-spot-it-tired-ad-tt-03-story.jpg"
+      "media": "G09-guess-the-verdict-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-26-deck-b",
-      "platform": "ig",
-      "kind": "story",
-      "at": "2026-10-26T09:32",
-      "media": "d02-spot-it-tired-ad-tt-04-story.jpg"
-    },
-    {
-      "id": "st-fb-2026-10-26-deck-a",
+      "id": "st-fb-2026-10-26-g1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-26T09:33",
-      "media": "d02-spot-it-tired-ad-tt-03-story.jpg"
+      "media": "G09-guess-the-verdict-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-26-deck-b",
-      "platform": "fb",
-      "kind": "story",
-      "at": "2026-10-26T09:35",
-      "media": "d02-spot-it-tired-ad-tt-04-story.jpg"
-    },
-    {
-      "id": "st-ig-2026-10-26-video-1",
+      "id": "st-ig-2026-10-26-g2",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-26T12:30",
-      "media": "B01-spot-the-tired-ad-9x16.mp4"
+      "media": "G05-two-seconds-on-the-call-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-26-video-1",
+      "id": "st-fb-2026-10-26-g2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-26T12:33",
-      "media": "B01-spot-the-tired-ad-9x16.mp4"
+      "media": "G05-two-seconds-on-the-call-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-26-card",
+      "id": "st-ig-2026-10-26-g3",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-26T15:30",
-      "media": "post-cards-08-story.jpg"
+      "media": "G09-guess-the-verdict-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-26-card",
+      "id": "st-fb-2026-10-26-g3",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-26T15:33",
-      "media": "post-cards-08-story.jpg"
+      "media": "G09-guess-the-verdict-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-26-video-2",
+      "id": "st-ig-2026-10-26-g4",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-26T18:30",
+      "media": "G05-two-seconds-on-the-call-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
+    },
+    {
+      "id": "st-fb-2026-10-26-g4",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-26T18:33",
+      "media": "G05-two-seconds-on-the-call-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
+    },
+    {
+      "id": "st-ig-2026-10-26-g5",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-26T21:30",
-      "media": "B03-client-nine-9x16.mp4"
+      "media": "G05-two-seconds-on-the-call-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-26-video-2",
+      "id": "st-fb-2026-10-26-g5",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-26T21:33",
-      "media": "B03-client-nine-9x16.mp4"
+      "media": "G05-two-seconds-on-the-call-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-27-deck-a",
+      "id": "st-ig-2026-10-27-g1",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-27T09:30",
-      "media": "d03-spot-it-runaway-budget-tt-03-story.jpg"
+      "media": "G10-friday-did-it-land-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-27-deck-b",
-      "platform": "ig",
-      "kind": "story",
-      "at": "2026-10-27T09:32",
-      "media": "d03-spot-it-runaway-budget-tt-04-story.jpg"
-    },
-    {
-      "id": "st-fb-2026-10-27-deck-a",
+      "id": "st-fb-2026-10-27-g1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-27T09:33",
-      "media": "d03-spot-it-runaway-budget-tt-03-story.jpg"
+      "media": "G10-friday-did-it-land-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-27-deck-b",
-      "platform": "fb",
-      "kind": "story",
-      "at": "2026-10-27T09:35",
-      "media": "d03-spot-it-runaway-budget-tt-04-story.jpg"
-    },
-    {
-      "id": "st-ig-2026-10-27-video-1",
+      "id": "st-ig-2026-10-27-g2",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-27T12:30",
-      "media": "B04-before-your-first-hire-9x16.mp4"
+      "media": "G10-friday-did-it-land-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-27-video-1",
+      "id": "st-fb-2026-10-27-g2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-27T12:33",
-      "media": "B04-before-your-first-hire-9x16.mp4"
+      "media": "G10-friday-did-it-land-story-whatis.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-27-card",
+      "id": "st-ig-2026-10-27-g3",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-27T15:30",
-      "media": "quote-card-01-story.jpg"
+      "media": "G02-monthly-report-line-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-27-card",
+      "id": "st-fb-2026-10-27-g3",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-27T15:33",
-      "media": "quote-card-01-story.jpg"
+      "media": "G02-monthly-report-line-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-ig-2026-10-27-video-2",
+      "id": "st-ig-2026-10-27-g4",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-27T18:30",
+      "media": "G10-friday-did-it-land-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
+    },
+    {
+      "id": "st-fb-2026-10-27-g4",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-27T18:33",
+      "media": "G10-friday-did-it-land-story-payoff.mp4",
+      "note": "2026-10-21 Batch G swap"
+    },
+    {
+      "id": "st-ig-2026-10-27-g5",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-27T21:30",
-      "media": "B07-saturday-spend-9x16.mp4"
+      "media": "G08-the-missing-column-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
-      "id": "st-fb-2026-10-27-video-2",
+      "id": "st-fb-2026-10-27-g5",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-27T21:33",
-      "media": "B07-saturday-spend-9x16.mp4"
+      "media": "G08-the-missing-column-story-hook.mp4",
+      "note": "2026-10-21 Batch G swap"
     },
     {
       "id": "st-ig-2026-10-28-deck-a",

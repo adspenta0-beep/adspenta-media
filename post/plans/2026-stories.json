@@ -547,28 +547,36 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-20T09:30",
-      "media": "d09-plain-words-pacing-tt-01-story.jpg"
+      "media": "d09-plain-words-pacing-tt-01-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4011920008418859069"
     },
     {
       "id": "st-ig-2026-10-20-deck-b",
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-20T09:32",
-      "media": "d09-plain-words-pacing-tt-02-story.jpg"
+      "media": "d09-plain-words-pacing-tt-02-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4011920093353488742"
     },
     {
       "id": "st-fb-2026-10-20-deck-a",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-20T09:33",
-      "media": "d09-plain-words-pacing-tt-01-story.jpg"
+      "media": "d09-plain-words-pacing-tt-01-story.jpg",
+      "status": "posted",
+      "result": "published story: id 2390952318375830"
     },
     {
       "id": "st-fb-2026-10-20-deck-b",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-20T09:35",
-      "media": "d09-plain-words-pacing-tt-02-story.jpg"
+      "media": "d09-plain-words-pacing-tt-02-story.jpg",
+      "status": "posted",
+      "result": "published story: id 1412510310992078"
     },
     {
       "id": "st-ig-2026-10-20-video-1",

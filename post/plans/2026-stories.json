@@ -583,14 +583,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-20T12:30",
-      "media": "V39-you-dont-know-its-drifting-cta-9x16.mp4"
+      "media": "V39-you-dont-know-its-drifting-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4012018570771121275"
     },
     {
       "id": "st-fb-2026-10-20-video-1",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-20T12:33",
-      "media": "V39-you-dont-know-its-drifting-cta-9x16.mp4"
+      "media": "V39-you-dont-know-its-drifting-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 1762157585067478"
     },
     {
       "id": "st-ig-2026-10-20-card",

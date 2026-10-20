@@ -619,14 +619,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-20T18:30",
-      "media": "carousel-3-silent-failures-brand-01-story.jpg"
+      "media": "carousel-3-silent-failures-brand-01-story.jpg",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4012201875722245559"
     },
     {
       "id": "st-fb-2026-10-20-feed",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-20T18:33",
-      "media": "carousel-3-silent-failures-brand-01-story.jpg"
+      "media": "carousel-3-silent-failures-brand-01-story.jpg",
+      "status": "posted",
+      "result": "published story: id 1909472287091624"
     },
     {
       "id": "st-ig-2026-10-20-video-2",

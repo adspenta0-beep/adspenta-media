@@ -637,14 +637,18 @@
       "platform": "ig",
       "kind": "story",
       "at": "2026-10-20T21:30",
-      "media": "V40-1630-the-client-call-cta-9x16.mp4"
+      "media": "V40-1630-the-client-call-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4012286018241655584"
     },
     {
       "id": "st-fb-2026-10-20-video-2",
       "platform": "fb",
       "kind": "story",
       "at": "2026-10-20T21:33",
-      "media": "V40-1630-the-client-call-cta-9x16.mp4"
+      "media": "V40-1630-the-client-call-cta-9x16.mp4",
+      "status": "posted",
+      "result": "published story: id 1288345970101464"
     },
     {
       "id": "st-ig-2026-10-21-deck-a",

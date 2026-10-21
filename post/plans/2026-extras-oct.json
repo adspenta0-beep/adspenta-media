@@ -258,13 +258,11 @@
       "id": "x-ig-wed21-2100",
       "platform": "ig",
       "kind": "reel",
-      "at": "2026-10-21T21:00",
+      "at": "2026-10-23T21:00",
       "media": "G02-monthly-report-line-9x16.mp4",
       "caption": "If you send clients a monthly report, read this line.\n\n\"Changes made: 14.\" Your client asks: did they work?\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads, and measures each change it sends at day 7 and day 14, against that account's own baseline. So your report shows which change actually helped.\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife",
       "replaced": "V39-you-dont-know-its-drifting-cta-9x16.mp4",
-      "note": "2026-10-21 Batch G swap",
-      "status": "skipped",
-      "result": "queue did not run in time for 2026-10-21T21:00"
+      "note": "2026-10-21 Batch G swap; skipped 21 Oct (queue 33 min late), moved to 23 Oct 21:00"
     },
     {
       "id": "x-fb-wed21-2200",

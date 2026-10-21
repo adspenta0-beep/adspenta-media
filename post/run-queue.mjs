@@ -13,7 +13,7 @@ import { fileURLToPath } from "node:url";
 const here = dirname(fileURLToPath(import.meta.url));
 const plans = join(here, "plans"), log = join(here, "queue.log");
 const list = process.argv.includes("--list");
-const now = Date.now(), GRACE = 30 * 60 * 1000;
+const now = Date.now(), GRACE = 90 * 60 * 1000;   // 22 Oct: GitHub cron often runs 30+ min late; 30 min skipped 2 reels in a week
 const stamp = () => new Date().toISOString().slice(0, 16).replace("T", " ");
 
 for (const f of readdirSync(plans).filter((n) => n.endsWith(".json"))) {

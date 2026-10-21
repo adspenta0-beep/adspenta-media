@@ -50,7 +50,9 @@
       "at": "2026-10-21T12:00",
       "media": "carousel-1-ten-checks.pdf",
       "title": "10 checks before a change touches a client's ad account",
-      "caption": "Before a tool changes anything in a client's ad account, it should be able to answer 10 questions.\n\nThese are the 10 checks behind every change in Adspenta. They work as a checklist with any tool, or with a person and a spreadsheet.\n\nThe two I'd start with if you only take two:\nIs this account allowed to change at all? Live changes should be off for every account until someone turns them on, one account at a time.\nDid the platform confirm it? \"Sent\" is not \"done\". Read the value back before calling it done.\n\nThe full list is in the document.\n\nWhich check does your current setup skip?\n\nP.S. The one people argue with most is number 5: a cooldown picked from a list, never typed into a box. Short version: a typed \"1\" is how a cooldown turns into a loop. Full story next week."
+      "caption": "Before a tool changes anything in a client's ad account, it should be able to answer 10 questions.\n\nThese are the 10 checks behind every change in Adspenta. They work as a checklist with any tool, or with a person and a spreadsheet.\n\nThe two I'd start with if you only take two:\nIs this account allowed to change at all? Live changes should be off for every account until someone turns them on, one account at a time.\nDid the platform confirm it? \"Sent\" is not \"done\". Read the value back before calling it done.\n\nThe full list is in the document.\n\nWhich check does your current setup skip?\n\nP.S. The one people argue with most is number 5: a cooldown picked from a list, never typed into a box. Short version: a typed \"1\" is how a cooldown turns into a loop. Full story next week.",
+      "status": "posted",
+      "result": "published document: https://www.linkedin.com/feed/update/urn:li:ugcPost:7518602297443033088/"
     },
     {
       "id": "li-06-two-agencies",

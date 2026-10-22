@@ -18,7 +18,9 @@
       "kind": "reel",
       "at": "2026-10-19T20:00",
       "media": "B01-spot-the-tired-ad-9x16.mp4",
-      "caption": "Spot the tired ad. You've got three seconds.\n\nAdspenta checks how often people have seen every ad, and where the clicks are going, every day. Today: seen five times each, clicks down by half. It suggests a pause. You say yes.\n\nDid you get it? AI voice."
+      "caption": "Spot the tired ad. You've got three seconds.\n\nAdspenta checks how often people have seen every ad, and where the clicks are going, every day. Today: seen five times each, clicks down by half. It suggests a pause. You say yes.\n\nDid you get it? AI voice.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1438099808519011 for 2026-10-19T20:00"
     },
     {
       "id": "ig-tue20-1800",
@@ -36,7 +38,9 @@
       "kind": "photos",
       "at": "2026-10-20T18:00",
       "media": "carousel-3-silent-failures-brand-01.png,carousel-3-silent-failures-brand-02.png,carousel-3-silent-failures-brand-03.png,carousel-3-silent-failures-brand-04.png,carousel-3-silent-failures-brand-05.png,carousel-3-silent-failures-brand-06.png",
-      "caption": "Silent failures in ad tools: three that never raised an alert.\n\nError alerts only fire when something fails. These didn't fail. They stopped, or they could never trip. Each slide ends with one check you can run on your own setup this week.\n\nWhat in your agency would break without making a sound?"
+      "caption": "Silent failures in ad tools: three that never raised an alert.\n\nError alerts only fire when something fails. These didn't fail. They stopped, or they could never trip. Each slide ends with one check you can run on your own setup this week.\n\nWhat in your agency would break without making a sound?",
+      "status": "scheduled",
+      "result": "scheduled photos: id 1480901191763665_122110337241496232 for 2026-10-20T18:00"
     },
     {
       "id": "ig-wed21-1800",
@@ -54,7 +58,9 @@
       "kind": "photos",
       "at": "2026-10-21T20:00",
       "media": "d04-monday-checklist-01.png,d04-monday-checklist-02.png,d04-monday-checklist-03.png,d04-monday-checklist-04.png,d04-monday-checklist-05.png,d04-monday-checklist-06.png",
-      "caption": "The Monday checklist: 7 things to check in every client ad account before 10:00.\n\nSpend vs plan, frequency, tracking, disapprovals, budgets ending, duplicate audiences, and 'did last week's change work?'\n\nSave it; run it on every account tomorrow. Adspenta does this list every morning on every connected account."
+      "caption": "The Monday checklist: 7 things to check in every client ad account before 10:00.\n\nSpend vs plan, frequency, tracking, disapprovals, budgets ending, duplicate audiences, and 'did last week's change work?'\n\nSave it; run it on every account tomorrow. Adspenta does this list every morning on every connected account.",
+      "status": "scheduled",
+      "result": "scheduled photos: id 1480901191763665_122110337655496232 for 2026-10-21T20:00"
     },
     {
       "id": "ig-thu22-1800",
@@ -74,7 +80,9 @@
       "media": "G13-double-it-for-christmas-9x16.mp4",
       "caption": "Your client wants to double the budget for Christmas. You doubled it in September. Did that work?\n\nAdspenta is a marketing tool for agencies that run Meta and Google ads. It measures every change it sends at day 7 and day 14. September's doubling: no change in sales.\n\nSo Christmas runs on what worked, not a hunch.\n\nStart your free trial at adspenta.com. AI voice. Example data.",
       "replaced": "voice-fourfour.mp4",
-      "note": "2026-10-21 Batch G swap"
+      "note": "2026-10-21 Batch G swap",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1804090807499965 for 2026-10-22T18:00"
     },
     {
       "id": "ig-fri23-1800",
@@ -94,7 +102,9 @@
       "media": "G04-four-say-applied-9x16.mp4",
       "caption": "Four changes. All say applied. One never happened. Can you spot it?\n\nAdspenta is a marketing tool for agencies. Every change it sends, it reads back from Meta and Google. Only a match counts as confirmed. No match? It says unconfirmed, not done. Then day 14 tells you if it worked.\n\nDid you get it?\n\nStart your free trial at adspenta.com. AI voice. Example data.",
       "replaced": "V62-two-agencies-one-question-light-cta-9x16.mp4",
-      "note": "2026-10-21 Batch G swap"
+      "note": "2026-10-21 Batch G swap",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1756309602144593 for 2026-10-23T20:00"
     },
     {
       "id": "ig-sat24-1800",
@@ -110,7 +120,9 @@
       "kind": "photos",
       "at": "2026-10-24T20:00",
       "media": "d07-myth-ai-spends-money-01.png,d07-myth-ai-spends-money-02.png,d07-myth-ai-spends-money-03.png,d07-myth-ai-spends-money-04.png,d07-myth-ai-spends-money-05.png,d07-myth-ai-spends-money-06.png,d07-myth-ai-spends-money-07.png",
-      "caption": "Myth: 'Let an AI near the account and it'll spend my client's money.'\n\nFact, in Adspenta: the AI can look and suggest. It can't change anything on Meta or Google. Only the software sends a change, after a yes. Five-minute take-back. A halt switch for every account.\n\nWhich of these did you not expect?"
+      "caption": "Myth: 'Let an AI near the account and it'll spend my client's money.'\n\nFact, in Adspenta: the AI can look and suggest. It can't change anything on Meta or Google. Only the software sends a change, after a yes. Five-minute take-back. A halt switch for every account.\n\nWhich of these did you not expect?",
+      "status": "scheduled",
+      "result": "scheduled photos: id 1480901191763665_122110338585496232 for 2026-10-24T20:00"
     },
     {
       "id": "ig-sun25-1800",
@@ -130,7 +142,9 @@
       "media": "G01-this-fix-made-it-worse-9x16.mp4",
       "caption": "This fix made things worse. And that's good news.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads, and after a change, it keeps watching. Day 7: no change yet. Day 14: worse, against the account's own baseline.\n\nSo you hear it from Adspenta, not from the client. Proof, either way.\n\nStart your free trial at adspenta.com. AI voice. Example data.",
       "replaced": "V05-the-ai-talks-the-software-does-v2-cta-9x16.mp4",
-      "note": "2026-10-21 Batch G swap"
+      "note": "2026-10-21 Batch G swap",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1513687703867012 for 2026-10-25T20:00"
     }
   ]
 }

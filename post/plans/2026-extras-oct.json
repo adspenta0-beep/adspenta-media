@@ -358,7 +358,9 @@
       "kind": "carousel",
       "at": "2026-10-23T12:00",
       "media": "d12-three-client-questions-01.png,d12-three-client-questions-02.png,d12-three-client-questions-03.png,d12-three-client-questions-04.png,d12-three-client-questions-05.png,d12-three-client-questions-06.png,d12-three-client-questions-07.png,d12-three-client-questions-08.png",
-      "caption": "The three questions every client asks, and the answer that ends the call in one minute.\n\n'What changed?' 'Why?' 'Did it work?' Adspenta keeps the change, the reason, who said yes and the result at 7 and 14 days, for every account.\n\nWhich of the three takes you longest to answer today?\n\n#AgencyLife #PPC #AgencyOwner"
+      "caption": "The three questions every client asks, and the answer that ends the call in one minute.\n\n'What changed?' 'Why?' 'Did it work?' Adspenta keeps the change, the reason, who said yes and the result at 7 and 14 days, for every account.\n\nWhich of the three takes you longest to answer today?\n\n#AgencyLife #PPC #AgencyOwner",
+      "status": "failed",
+      "result": "Error: 28787309097545009/media_publish: Application request limit reached (code 4)"
     },
     {
       "id": "x-fb-fri23-1300",

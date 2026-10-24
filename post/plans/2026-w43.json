@@ -116,7 +116,9 @@
       "kind": "carousel",
       "at": "2026-10-24T18:00",
       "media": "d07-myth-ai-spends-money-01.png,d07-myth-ai-spends-money-02.png,d07-myth-ai-spends-money-03.png,d07-myth-ai-spends-money-04.png,d07-myth-ai-spends-money-05.png,d07-myth-ai-spends-money-06.png,d07-myth-ai-spends-money-07.png",
-      "caption": "Myth: 'Let an AI near the account and it'll spend my client's money.'\n\nFact, in Adspenta: the AI can look and suggest. It can't change anything on Meta or Google. Only the software sends a change, after a yes. Five-minute take-back. A halt switch for every account. Every change written down.\n\nWhich of these did you not expect?\n\nStart your trial at adspenta.com (bio).\n\n#MetaAds #PPC #AgencyLife"
+      "caption": "Myth: 'Let an AI near the account and it'll spend my client's money.'\n\nFact, in Adspenta: the AI can look and suggest. It can't change anything on Meta or Google. Only the software sends a change, after a yes. Five-minute take-back. A halt switch for every account. Every change written down.\n\nWhich of these did you not expect?\n\nStart your trial at adspenta.com (bio).\n\n#MetaAds #PPC #AgencyLife",
+      "status": "failed",
+      "result": "Error: 28787309097545009/media_publish: Application request limit reached (code 4)"
     },
     {
       "id": "fb-sat24-2000",

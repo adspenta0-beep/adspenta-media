@@ -976,7 +976,9 @@
       "kind": "story",
       "at": "2026-10-24T12:30",
       "media": "G00-five-slow-minutes-story-whatis.mp4",
-      "note": "2026-10-21 Batch G swap"
+      "note": "2026-10-21 Batch G swap",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4014921975097194856"
     },
     {
       "id": "st-fb-2026-10-24-g2",
@@ -984,7 +986,9 @@
       "kind": "story",
       "at": "2026-10-24T12:33",
       "media": "G00-five-slow-minutes-story-whatis.mp4",
-      "note": "2026-10-21 Batch G swap"
+      "note": "2026-10-21 Batch G swap",
+      "status": "posted",
+      "result": "published story: id 980645171130602"
     },
     {
       "id": "st-ig-2026-10-24-g3",

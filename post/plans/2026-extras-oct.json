@@ -428,7 +428,9 @@
       "kind": "carousel",
       "at": "2026-10-25T12:00",
       "media": "d16-honest-answers-01.png,d16-honest-answers-02.png,d16-honest-answers-03.png,d16-honest-answers-04.png,d16-honest-answers-05.png,d16-honest-answers-06.png,d16-honest-answers-07.png",
-      "caption": "Honest answers. Is it ready? Who is it for? What can it not do?\n\nSeven slides, no spin: what Adspenta does today, what it refuses to do, and who should not bother.\n\nAnything we didn't answer? Ask below.\n\n#PPC #AgencyOwner #PaidMedia"
+      "caption": "Honest answers. Is it ready? Who is it for? What can it not do?\n\nSeven slides, no spin: what Adspenta does today, what it refuses to do, and who should not bother.\n\nAnything we didn't answer? Ask below.\n\n#PPC #AgencyOwner #PaidMedia",
+      "status": "failed",
+      "result": "Error: 28787309097545009/media_publish: Application request limit reached (code 4)"
     },
     {
       "id": "x-fb-sun25-1300",

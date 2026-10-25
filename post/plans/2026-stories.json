@@ -1076,7 +1076,9 @@
       "kind": "story",
       "at": "2026-10-25T12:30",
       "media": "G01-this-fix-made-it-worse-story-whatis.mp4",
-      "note": "2026-10-21 Batch G swap"
+      "note": "2026-10-21 Batch G swap",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4015674741850412286"
     },
     {
       "id": "st-fb-2026-10-25-g2",
@@ -1084,7 +1086,9 @@
       "kind": "story",
       "at": "2026-10-25T12:33",
       "media": "G01-this-fix-made-it-worse-story-whatis.mp4",
-      "note": "2026-10-21 Batch G swap"
+      "note": "2026-10-21 Batch G swap",
+      "status": "posted",
+      "result": "published story: id 2014719519102436"
     },
     {
       "id": "st-ig-2026-10-25-g3",

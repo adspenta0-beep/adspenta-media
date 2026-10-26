@@ -1,0 +1,113 @@
+{
+  "week": "Wed 28 Oct to Tue 3 Nov 2026: 2 reels a day on IG (12:00, 18:00) and FB (13:00, 20:00), LinkedIn videos on free days",
+  "base": "https://raw.githubusercontent.com/adspenta0-beep/adspenta-media/main/",
+  "items": [
+    {
+      "id": "ig-wed28-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-28T12:00",
+      "media": "G11-most-expensive-words-9x16.mp4",
+      "caption": "The most expensive words in paid ads? \"Let's see how it goes.\"\n\nThen nobody looks again. Adspenta is a marketing tool for agencies. It checks every client's Meta and Google ads daily, and every change you approve is checked at day 7 and day 14. So \"let's see\" becomes \"here's what happened\".\n\nWhat's the most expensive phrase in your agency?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-wed28-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-28T13:00",
+      "media": "G11-most-expensive-words-9x16.mp4",
+      "caption": "The most expensive words in paid ads? \"Let's see how it goes.\"\n\nThen nobody looks again. Adspenta is a marketing tool for agencies. It checks every client's Meta and Google ads daily, and every change you approve is checked at day 7 and day 14. So \"let's see\" becomes \"here's what happened\".\n\nWhat's the most expensive phrase in your agency?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-wed28-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-28T18:00",
+      "media": "G14-the-receipt-9x16.mp4",
+      "caption": "Coffee gets a receipt. Your client's budget change doesn't.\n\nAdspenta is a marketing tool for agencies. It checks clients' Meta and Google ads daily, and every change it sends gets a receipt: what changed, why, and proof it went through. Two weeks on, whether it worked.\n\nWhen a client asks why their budget moved, what do you show them?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-wed28-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-28T20:00",
+      "media": "G14-the-receipt-9x16.mp4",
+      "caption": "Coffee gets a receipt. Your client's budget change doesn't.\n\nAdspenta is a marketing tool for agencies. It checks clients' Meta and Google ads daily, and every change it sends gets a receipt: what changed, why, and proof it went through. Two weeks on, whether it worked.\n\nWhen a client asks why their budget moved, what do you show them?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-thu29-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-29T12:00",
+      "media": "G15-stop-sending-screenshots-9x16.mp4",
+      "caption": "Stop sending clients screenshots as proof.\n\nA screenshot shows what you typed, not what the platform did. Adspenta is a marketing tool for agencies running clients' Meta and Google ads. After each change it sends, it reads the platform back. No match? You see Unconfirmed, not done. At day 14 it tells you if it worked.\n\nHow does your agency prove a change went live?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-thu29-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-29T13:00",
+      "media": "G15-stop-sending-screenshots-9x16.mp4",
+      "caption": "Stop sending clients screenshots as proof.\n\nA screenshot shows what you typed, not what the platform did. Adspenta is a marketing tool for agencies running clients' Meta and Google ads. After each change it sends, it reads the platform back. No match? You see Unconfirmed, not done. At day 14 it tells you if it worked.\n\nHow does your agency prove a change went live?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-thu29-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-29T18:00",
+      "media": "G16-an-alert-is-homework-9x16.mp4",
+      "caption": "An alert is homework. It says something's wrong, and that's all.\n\nAdspenta is a marketing tool for agencies. It checks clients' Meta and Google ads daily and brings the answer: the reason, and the fix to approve. Two weeks later, you see if it worked.\n\nHow many alerts did you chase last week?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-thu29-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-29T20:00",
+      "media": "G16-an-alert-is-homework-9x16.mp4",
+      "caption": "An alert is homework. It says something's wrong, and that's all.\n\nAdspenta is a marketing tool for agencies. It checks clients' Meta and Google ads daily and brings the answer: the reason, and the fix to approve. Two weeks later, you see if it worked.\n\nHow many alerts did you chase last week?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-fri30-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-30T12:00",
+      "media": "G12-line-in-your-proposal-9x16.mp4",
+      "caption": "Your proposal says \"We check your ads daily.\" Twelve clients later, is it still true?\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads daily, so that line stays true. Problems come to you with a fix, and two weeks on you see whether it worked.\n\nWhat line in your proposal would you like to prove?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-fri30-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-30T13:00",
+      "media": "G12-line-in-your-proposal-9x16.mp4",
+      "caption": "Your proposal says \"We check your ads daily.\" Twelve clients later, is it still true?\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads daily, so that line stays true. Problems come to you with a fix, and two weeks on you see whether it worked.\n\nWhat line in your proposal would you like to prove?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "li-v-g02",
+      "platform": "li",
+      "kind": "video",
+      "at": "2026-10-31T12:00",
+      "media": "G02-monthly-report-line-9x16.mp4",
+      "title": "The line every monthly report is missing",
+      "caption": "If you send clients a monthly report, read this line: \"Changes made: 14.\"\n\nThe client's next question is always the same. Did they work?\n\nMost reports stop at activity. Adspenta, the marketing tool I'm building for agencies, checks every client's Meta and Google ads and measures each change it sends at day 7 and day 14, against that account's own baseline. So the report can finally say which change actually helped.\n\nWhat's the one column you wish your client report had?\n\n(Short video, AI voice, example data.)"
+    },
+    {
+      "id": "li-v-g08",
+      "platform": "li",
+      "kind": "video",
+      "at": "2026-11-01T12:00",
+      "media": "G08-the-missing-column-9x16.mp4",
+      "title": "The column clients actually read",
+      "caption": "Every agency report I've seen has a column for what changed. Almost none have a column for whether it worked.\n\nThat missing column is the one clients read first.\n\nAdspenta keeps it. Each change it sends is measured at 7 and 14 days, with one of four honest answers: improved, worse, no change, or not enough data. \"Worse\" included. That's the point.\n\nWould you show a client a \"worse\"?\n\n(Short video, AI voice, example data.)"
+    },
+    {
+      "id": "li-v-g07",
+      "platform": "li",
+      "kind": "video",
+      "at": "2026-11-02T12:00",
+      "media": "G07-applied-means-nothing-9x16.mp4",
+      "title": "Applied means nothing",
+      "caption": "\"Applied\" is the most reassuring word in ad software, and it tells you almost nothing.\n\nIt means the tool sent the change. It doesn't mean the platform shows the new value, and it doesn't mean the change worked.\n\nSo Adspenta reads every change it sends back from Meta or Google before it calls it confirmed. Then at day 7 and day 14 it checks the results.\n\nWhen your tool says \"applied\", how do you know it landed?\n\n(Short video, AI voice, example data.)"
+    }
+  ]
+}

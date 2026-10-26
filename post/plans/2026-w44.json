@@ -396,6 +396,14 @@
       "note": "brief g16 3/3"
     },
     {
+      "id": "ig-sun01-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-01T12:00",
+      "media": "H04-who-changed-it-and-why-9x16.mp4",
+      "caption": "Run Meta ads for clients? The \"who changed this, and why?\" text is coming.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change it sends is written down: what, why, who said yes. Then it checks Meta really made it, and two weeks later whether it worked.\n\nCould you answer that text today?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
       "id": "li-v-g08",
       "platform": "li",
       "kind": "video",
@@ -405,6 +413,22 @@
       "caption": "Every agency report I've seen has a column for what changed. Almost none have a column for whether it worked.\n\nThat missing column is the one clients read first.\n\nAdspenta keeps it. Each change it sends is measured at 7 and 14 days, with one of four honest answers: improved, worse, no change, or not enough data. \"Worse\" included. That's the point.\n\nWould you show a client a \"worse\"?\n\n(Short video, AI voice, example data.)"
     },
     {
+      "id": "fb-sun01-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-01T13:00",
+      "media": "H04-who-changed-it-and-why-9x16.mp4",
+      "caption": "Run Meta ads for clients? The \"who changed this, and why?\" text is coming.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change it sends is written down: what, why, who said yes. Then it checks Meta really made it, and two weeks later whether it worked.\n\nCould you answer that text today?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-mon02-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-02T12:00",
+      "media": "H06-the-invoice-line-9x16.mp4",
+      "caption": "Your invoice says \"ads management\". Your client asks what that meant.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and records every change it sends: what, why, who said yes. Two weeks later it adds whether each one worked. Put that next to the invoice.\n\nWhat does your invoice line really cover?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
       "id": "li-v-g07",
       "platform": "li",
       "kind": "video",
@@ -412,6 +436,14 @@
       "media": "G07-applied-means-nothing-9x16.mp4",
       "title": "Applied means nothing",
       "caption": "\"Applied\" is the most reassuring word in ad software, and it tells you almost nothing.\n\nIt means the tool sent the change. It doesn't mean the platform shows the new value, and it doesn't mean the change worked.\n\nSo Adspenta reads every change it sends back from Meta or Google before it calls it confirmed. Then at day 7 and day 14 it checks the results.\n\nWhen your tool says \"applied\", how do you know it landed?\n\n(Short video, AI voice, example data.)"
+    },
+    {
+      "id": "fb-mon02-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-02T13:00",
+      "media": "H06-the-invoice-line-9x16.mp4",
+      "caption": "Your invoice says \"ads management\". Your client asks what that meant.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and records every change it sends: what, why, who said yes. Two weeks later it adds whether each one worked. Put that next to the invoice.\n\nWhat does your invoice line really cover?\n\nStart your free trial at adspenta.com. AI voice. Example data."
     }
   ]
 }

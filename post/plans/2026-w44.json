@@ -577,7 +577,9 @@
       "kind": "reel",
       "at": "2026-11-03T20:00",
       "media": "H09-the-job-ad-9x16.mp4",
-      "caption": "Read your own job ad. Mostly checking.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and brings you each fix, with the reason. Two weeks later it tells you if the fix worked. So your next hire can grow the agency.\n\nHow much of your week is checking?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+      "caption": "Read your own job ad. Mostly checking.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and brings you each fix, with the reason. Two weeks later it tells you if the fix worked. So your next hire can grow the agency.\n\nHow much of your week is checking?\n\nStart your free trial at adspenta.com. AI voice. Example data.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 39631435663167523 for 2026-11-03T20:00"
     }
   ]
 }

@@ -250,7 +250,9 @@
       "kind": "reel",
       "at": "2026-10-30T20:00",
       "media": "H01-spot-the-ai-s-change-9x16.mp4",
-      "caption": "Which of these four changes did the AI make?\n\nNone. Adspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and its AI can't touch a single account. Three changes had your yes, one was a rule you set (pause ads seen five times), and each one was checked on the platform.\n\nDid you guess right?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+      "caption": "Which of these four changes did the AI make?\n\nNone. Adspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and its AI can't touch a single account. Three changes had your yes, one was a rule you set (pause ads seen five times), and each one was checked on the platform.\n\nDid you guess right?\n\nStart your free trial at adspenta.com. AI voice. Example data.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1542664984560539 for 2026-10-30T20:00"
     },
     {
       "id": "st-ig-2026-10-31-b1",
@@ -323,7 +325,9 @@
       "kind": "reel",
       "at": "2026-10-31T13:00",
       "media": "H02-your-client-can-log-in-too-9x16.mp4",
-      "caption": "Your clients can open their ad accounts too. Sometimes before you do.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After you approve a change, it asks Meta what's really live. When it doesn't match, you hear it from Adspenta, not your client.\n\nHas a client ever spotted it first?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+      "caption": "Your clients can open their ad accounts too. Sometimes before you do.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After you approve a change, it asks Meta what's really live. When it doesn't match, you hear it from Adspenta, not your client.\n\nHas a client ever spotted it first?\n\nStart your free trial at adspenta.com. AI voice. Example data.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 2523235554851691 for 2026-10-31T13:00"
     },
     {
       "id": "st-ig-2026-11-01-b1",

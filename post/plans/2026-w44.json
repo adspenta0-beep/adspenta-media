@@ -423,6 +423,22 @@
       "result": "scheduled reel: id 2961582860876248 for 2026-11-01T13:00"
     },
     {
+      "id": "ig-sun01-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-01T18:00",
+      "media": "H05-the-client-changed-their-mind-9x16.mp4",
+      "caption": "You've just pressed approve. And the client calls.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and nothing goes out the moment you approve. You get five minutes to take it back. Tap, and it never went out.\n\nHow often does a client change their mind?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-sun01-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-01T20:00",
+      "media": "H05-the-client-changed-their-mind-9x16.mp4",
+      "caption": "You've just pressed approve. And the client calls.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and nothing goes out the moment you approve. You get five minutes to take it back. Tap, and it never went out.\n\nHow often does a client change their mind?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
       "id": "ig-mon02-1200",
       "platform": "ig",
       "kind": "reel",

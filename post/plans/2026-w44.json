@@ -330,6 +330,22 @@
       "result": "scheduled reel: id 2523235554851691 for 2026-10-31T13:00"
     },
     {
+      "id": "ig-sat31-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-31T18:00",
+      "media": "H03-read-what-it-can-change-9x16.mp4",
+      "caption": "Another AI wants into your clients' ad accounts. Read what it can change.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Its AI only looks and suggests, so your clients' money stays out of reach. A fix goes out when you approve it, then Adspenta checks it went through and, at day 14, if it worked.\n\nWhat would you never let an AI do in a client's account?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-sat31-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-31T20:00",
+      "media": "H03-read-what-it-can-change-9x16.mp4",
+      "caption": "Another AI wants into your clients' ad accounts. Read what it can change.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Its AI only looks and suggests, so your clients' money stays out of reach. A fix goes out when you approve it, then Adspenta checks it went through and, at day 14, if it worked.\n\nWhat would you never let an AI do in a client's account?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
       "id": "st-ig-2026-11-01-b1",
       "platform": "ig",
       "kind": "story",

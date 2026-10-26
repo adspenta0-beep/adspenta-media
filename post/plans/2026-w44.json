@@ -237,6 +237,22 @@
       "result": "scheduled reel: id 1051873657860752 for 2026-10-30T13:00"
     },
     {
+      "id": "ig-fri30-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-30T18:00",
+      "media": "H01-spot-the-ai-s-change-9x16.mp4",
+      "caption": "Which of these four changes did the AI make?\n\nNone. Adspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and its AI can't touch a single account. Three changes had your yes, one was a rule you set (pause ads seen five times), and each one was checked on the platform.\n\nDid you guess right?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-fri30-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-30T20:00",
+      "media": "H01-spot-the-ai-s-change-9x16.mp4",
+      "caption": "Which of these four changes did the AI make?\n\nNone. Adspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and its AI can't touch a single account. Three changes had your yes, one was a rule you set (pause ads seen five times), and each one was checked on the platform.\n\nDid you guess right?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
       "id": "st-ig-2026-10-31-b1",
       "platform": "ig",
       "kind": "story",
@@ -285,6 +301,14 @@
       "note": "brief g14 3/3"
     },
     {
+      "id": "ig-sat31-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-31T12:00",
+      "media": "H02-your-client-can-log-in-too-9x16.mp4",
+      "caption": "Your clients can open their ad accounts too. Sometimes before you do.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After you approve a change, it asks Meta what's really live. When it doesn't match, you hear it from Adspenta, not your client.\n\nHas a client ever spotted it first?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
       "id": "li-v-g02",
       "platform": "li",
       "kind": "video",
@@ -292,6 +316,14 @@
       "media": "G02-monthly-report-line-9x16.mp4",
       "title": "The line every monthly report is missing",
       "caption": "If you send clients a monthly report, read this line: \"Changes made: 14.\"\n\nThe client's next question is always the same. Did they work?\n\nMost reports stop at activity. Adspenta, the marketing tool I'm building for agencies, checks every client's Meta and Google ads and measures each change it sends at day 7 and day 14, against that account's own baseline. So the report can finally say which change actually helped.\n\nWhat's the one column you wish your client report had?\n\n(Short video, AI voice, example data.)"
+    },
+    {
+      "id": "fb-sat31-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-31T13:00",
+      "media": "H02-your-client-can-log-in-too-9x16.mp4",
+      "caption": "Your clients can open their ad accounts too. Sometimes before you do.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After you approve a change, it asks Meta what's really live. When it doesn't match, you hear it from Adspenta, not your client.\n\nHas a client ever spotted it first?\n\nStart your free trial at adspenta.com. AI voice. Example data."
     },
     {
       "id": "st-ig-2026-11-01-b1",

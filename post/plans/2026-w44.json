@@ -418,7 +418,9 @@
       "kind": "reel",
       "at": "2026-11-01T13:00",
       "media": "H04-who-changed-it-and-why-9x16.mp4",
-      "caption": "Run Meta ads for clients? The \"who changed this, and why?\" text is coming.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change it sends is written down: what, why, who said yes. Then it checks Meta really made it, and two weeks later whether it worked.\n\nCould you answer that text today?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+      "caption": "Run Meta ads for clients? The \"who changed this, and why?\" text is coming.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change it sends is written down: what, why, who said yes. Then it checks Meta really made it, and two weeks later whether it worked.\n\nCould you answer that text today?\n\nStart your free trial at adspenta.com. AI voice. Example data.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 2961582860876248 for 2026-11-01T13:00"
     },
     {
       "id": "ig-mon02-1200",
@@ -443,7 +445,9 @@
       "kind": "reel",
       "at": "2026-11-02T13:00",
       "media": "H06-the-invoice-line-9x16.mp4",
-      "caption": "Your invoice says \"ads management\". Your client asks what that meant.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and records every change it sends: what, why, who said yes. Two weeks later it adds whether each one worked. Put that next to the invoice.\n\nWhat does your invoice line really cover?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+      "caption": "Your invoice says \"ads management\". Your client asks what that meant.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and records every change it sends: what, why, who said yes. Two weeks later it adds whether each one worked. Put that next to the invoice.\n\nWhat does your invoice line really cover?\n\nStart your free trial at adspenta.com. AI voice. Example data.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 2640248473062745 for 2026-11-02T13:00"
     }
   ]
 }

@@ -87,6 +87,54 @@
       "result": "scheduled reel: id 1141457091663972 for 2026-10-28T20:00"
     },
     {
+      "id": "st-ig-2026-10-29-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-29T09:30",
+      "media": "g15-story-1of3.mp4",
+      "note": "brief g15 1/3"
+    },
+    {
+      "id": "st-ig-2026-10-29-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-29T09:31",
+      "media": "g15-story-2of3.mp4",
+      "note": "brief g15 2/3"
+    },
+    {
+      "id": "st-ig-2026-10-29-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-29T09:32",
+      "media": "g15-story-3of3.mp4",
+      "note": "brief g15 3/3"
+    },
+    {
+      "id": "st-fb-2026-10-29-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-29T09:33",
+      "media": "g15-story-1of3.mp4",
+      "note": "brief g15 1/3"
+    },
+    {
+      "id": "st-fb-2026-10-29-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-29T09:34",
+      "media": "g15-story-2of3.mp4",
+      "note": "brief g15 2/3"
+    },
+    {
+      "id": "st-fb-2026-10-29-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-29T09:35",
+      "media": "g15-story-3of3.mp4",
+      "note": "brief g15 3/3"
+    },
+    {
       "id": "ig-thu29-1200",
       "platform": "ig",
       "kind": "reel",
@@ -123,6 +171,54 @@
       "result": "scheduled reel: id 2355459831893899 for 2026-10-29T20:00"
     },
     {
+      "id": "st-ig-2026-10-30-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-30T09:30",
+      "media": "g12-story-1of3.mp4",
+      "note": "brief g12 1/3"
+    },
+    {
+      "id": "st-ig-2026-10-30-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-30T09:31",
+      "media": "g12-story-2of3.mp4",
+      "note": "brief g12 2/3"
+    },
+    {
+      "id": "st-ig-2026-10-30-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-30T09:32",
+      "media": "g12-story-3of3.mp4",
+      "note": "brief g12 3/3"
+    },
+    {
+      "id": "st-fb-2026-10-30-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-30T09:33",
+      "media": "g12-story-1of3.mp4",
+      "note": "brief g12 1/3"
+    },
+    {
+      "id": "st-fb-2026-10-30-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-30T09:34",
+      "media": "g12-story-2of3.mp4",
+      "note": "brief g12 2/3"
+    },
+    {
+      "id": "st-fb-2026-10-30-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-30T09:35",
+      "media": "g12-story-3of3.mp4",
+      "note": "brief g12 3/3"
+    },
+    {
       "id": "ig-fri30-1200",
       "platform": "ig",
       "kind": "reel",
@@ -141,6 +237,54 @@
       "result": "scheduled reel: id 1051873657860752 for 2026-10-30T13:00"
     },
     {
+      "id": "st-ig-2026-10-31-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-31T09:30",
+      "media": "g14-story-1of3.mp4",
+      "note": "brief g14 1/3"
+    },
+    {
+      "id": "st-ig-2026-10-31-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-31T09:31",
+      "media": "g14-story-2of3.mp4",
+      "note": "brief g14 2/3"
+    },
+    {
+      "id": "st-ig-2026-10-31-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-31T09:32",
+      "media": "g14-story-3of3.mp4",
+      "note": "brief g14 3/3"
+    },
+    {
+      "id": "st-fb-2026-10-31-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-31T09:33",
+      "media": "g14-story-1of3.mp4",
+      "note": "brief g14 1/3"
+    },
+    {
+      "id": "st-fb-2026-10-31-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-31T09:34",
+      "media": "g14-story-2of3.mp4",
+      "note": "brief g14 2/3"
+    },
+    {
+      "id": "st-fb-2026-10-31-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-31T09:35",
+      "media": "g14-story-3of3.mp4",
+      "note": "brief g14 3/3"
+    },
+    {
       "id": "li-v-g02",
       "platform": "li",
       "kind": "video",
@@ -148,6 +292,54 @@
       "media": "G02-monthly-report-line-9x16.mp4",
       "title": "The line every monthly report is missing",
       "caption": "If you send clients a monthly report, read this line: \"Changes made: 14.\"\n\nThe client's next question is always the same. Did they work?\n\nMost reports stop at activity. Adspenta, the marketing tool I'm building for agencies, checks every client's Meta and Google ads and measures each change it sends at day 7 and day 14, against that account's own baseline. So the report can finally say which change actually helped.\n\nWhat's the one column you wish your client report had?\n\n(Short video, AI voice, example data.)"
+    },
+    {
+      "id": "st-ig-2026-11-01-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-01T09:30",
+      "media": "g16-story-1of3.mp4",
+      "note": "brief g16 1/3"
+    },
+    {
+      "id": "st-ig-2026-11-01-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-01T09:31",
+      "media": "g16-story-2of3.mp4",
+      "note": "brief g16 2/3"
+    },
+    {
+      "id": "st-ig-2026-11-01-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-01T09:32",
+      "media": "g16-story-3of3.mp4",
+      "note": "brief g16 3/3"
+    },
+    {
+      "id": "st-fb-2026-11-01-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-01T09:33",
+      "media": "g16-story-1of3.mp4",
+      "note": "brief g16 1/3"
+    },
+    {
+      "id": "st-fb-2026-11-01-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-01T09:34",
+      "media": "g16-story-2of3.mp4",
+      "note": "brief g16 2/3"
+    },
+    {
+      "id": "st-fb-2026-11-01-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-01T09:35",
+      "media": "g16-story-3of3.mp4",
+      "note": "brief g16 3/3"
     },
     {
       "id": "li-v-g08",

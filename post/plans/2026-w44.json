@@ -3,6 +3,54 @@
   "base": "https://raw.githubusercontent.com/adspenta0-beep/adspenta-media/main/",
   "items": [
     {
+      "id": "st-ig-2026-10-28-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-28T09:30",
+      "media": "g11-story-1of3.mp4",
+      "note": "brief g11 1/3"
+    },
+    {
+      "id": "st-ig-2026-10-28-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-28T09:31",
+      "media": "g11-story-2of3.mp4",
+      "note": "brief g11 2/3"
+    },
+    {
+      "id": "st-ig-2026-10-28-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-10-28T09:32",
+      "media": "g11-story-3of3.mp4",
+      "note": "brief g11 3/3"
+    },
+    {
+      "id": "st-fb-2026-10-28-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-28T09:33",
+      "media": "g11-story-1of3.mp4",
+      "note": "brief g11 1/3"
+    },
+    {
+      "id": "st-fb-2026-10-28-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-28T09:34",
+      "media": "g11-story-2of3.mp4",
+      "note": "brief g11 2/3"
+    },
+    {
+      "id": "st-fb-2026-10-28-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-10-28T09:35",
+      "media": "g11-story-3of3.mp4",
+      "note": "brief g11 3/3"
+    },
+    {
       "id": "ig-wed28-1200",
       "platform": "ig",
       "kind": "reel",

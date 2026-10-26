@@ -529,7 +529,9 @@
       "kind": "reel",
       "at": "2026-11-02T20:00",
       "media": "H07-one-fix-start-to-finish-9x16.mp4",
-      "caption": "Follow one fix from start to finish. Most never get checked.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. It found a tired ad and brought the fix. You approve, it checks Meta made the change, then it waits two weeks for the verdict.\n\nWhen did you last check a fix two weeks later?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+      "caption": "Follow one fix from start to finish. Most never get checked.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. It found a tired ad and brought the fix. You approve, it checks Meta made the change, then it waits two weeks for the verdict.\n\nWhen did you last check a fix two weeks later?\n\nStart your free trial at adspenta.com. AI voice. Example data.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1125833729894517 for 2026-11-02T20:00"
     },
     {
       "id": "st-ig-2026-11-03-b1",

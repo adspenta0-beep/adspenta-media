@@ -1336,7 +1336,9 @@
       "kind": "story",
       "at": "2026-10-27T21:30",
       "media": "G08-the-missing-column-story-hook.mp4",
-      "note": "2026-10-21 Batch G swap"
+      "note": "2026-10-21 Batch G swap",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4017391093829993045"
     },
     {
       "id": "st-fb-2026-10-27-g5",
@@ -1344,7 +1346,9 @@
       "kind": "story",
       "at": "2026-10-27T21:33",
       "media": "G08-the-missing-column-story-hook.mp4",
-      "note": "2026-10-21 Batch G swap"
+      "note": "2026-10-21 Batch G swap",
+      "status": "posted",
+      "result": "published story: id 1471409888172916"
     }
   ]
 }

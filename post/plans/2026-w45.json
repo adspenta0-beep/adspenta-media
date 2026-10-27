@@ -1,0 +1,593 @@
+{
+  "week": "Wed 4 Nov to Tue 10 Nov 2026: Batch I (council 27 Oct) plus H10, 2 reels a day on IG (12:00, 18:00) and FB (13:00, 20:00), story sets from H03 to H09, LinkedIn videos on free days",
+  "base": "https://raw.githubusercontent.com/adspenta0-beep/adspenta-media/main/",
+  "items": [
+    {
+      "id": "st-ig-2026-11-04-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-04T09:30",
+      "media": "h03-story-1of3.mp4",
+      "note": "brief h03 1/3"
+    },
+    {
+      "id": "st-ig-2026-11-04-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-04T09:31",
+      "media": "h03-story-2of3.mp4",
+      "note": "brief h03 2/3"
+    },
+    {
+      "id": "st-ig-2026-11-04-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-04T09:32",
+      "media": "h03-story-3of3.mp4",
+      "note": "brief h03 3/3"
+    },
+    {
+      "id": "st-fb-2026-11-04-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-04T09:33",
+      "media": "h03-story-1of3.mp4",
+      "note": "brief h03 1/3"
+    },
+    {
+      "id": "st-fb-2026-11-04-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-04T09:34",
+      "media": "h03-story-2of3.mp4",
+      "note": "brief h03 2/3"
+    },
+    {
+      "id": "st-fb-2026-11-04-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-04T09:35",
+      "media": "h03-story-3of3.mp4",
+      "note": "brief h03 3/3"
+    },
+    {
+      "id": "ig-wed04-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-04T12:00",
+      "media": "I01-snoozed-three-times-9x16.mp4",
+      "caption": "You've snoozed this reminder. Three times. \"Check if the budget change worked.\"\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change you approve gets its answer at day 7 and day 14. Nobody has to remember.\n\nHow many \"did it work?\" reminders are you snoozing right now?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-wed04-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-04T13:00",
+      "media": "I01-snoozed-three-times-9x16.mp4",
+      "caption": "You've snoozed this reminder. Three times. \"Check if the budget change worked.\"\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change you approve gets its answer at day 7 and day 14. Nobody has to remember.\n\nHow many \"did it work?\" reminders are you snoozing right now?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-wed04-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-04T18:00",
+      "media": "I10-the-account-nobody-dares-touch-9x16.mp4",
+      "caption": "There's always one client account nobody dares touch. Fourteen weeks unchanged.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and brings small fixes, each with the evidence. You approve, you still get five minutes to take it back, and it checks the change landed exactly as approved. Two weeks on, you know if it worked.\n\nWhich account in your agency is the untouchable one?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-wed04-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-04T20:00",
+      "media": "I10-the-account-nobody-dares-touch-9x16.mp4",
+      "caption": "There's always one client account nobody dares touch. Fourteen weeks unchanged.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and brings small fixes, each with the evidence. You approve, you still get five minutes to take it back, and it checks the change landed exactly as approved. Two weeks on, you know if it worked.\n\nWhich account in your agency is the untouchable one?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "st-ig-2026-11-05-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-05T09:30",
+      "media": "h04-story-1of3.mp4",
+      "note": "brief h04 1/3"
+    },
+    {
+      "id": "st-ig-2026-11-05-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-05T09:31",
+      "media": "h04-story-2of3.mp4",
+      "note": "brief h04 2/3"
+    },
+    {
+      "id": "st-ig-2026-11-05-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-05T09:32",
+      "media": "h04-story-3of3.mp4",
+      "note": "brief h04 3/3"
+    },
+    {
+      "id": "st-fb-2026-11-05-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-05T09:33",
+      "media": "h04-story-1of3.mp4",
+      "note": "brief h04 1/3"
+    },
+    {
+      "id": "st-fb-2026-11-05-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-05T09:34",
+      "media": "h04-story-2of3.mp4",
+      "note": "brief h04 2/3"
+    },
+    {
+      "id": "st-fb-2026-11-05-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-05T09:35",
+      "media": "h04-story-3of3.mp4",
+      "note": "brief h04 3/3"
+    },
+    {
+      "id": "ig-thu05-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-05T12:00",
+      "media": "I03-daily-or-lifetime-9x16.mp4",
+      "caption": "Five hundred. Daily, or lifetime? The late-night question every Meta buyer knows.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and after every change it sends, it reads the platform back. So you see what Meta actually holds, not what you meant to set.\n\nWhich setting have you double-checked at night?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-thu05-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-05T13:00",
+      "media": "I03-daily-or-lifetime-9x16.mp4",
+      "caption": "Five hundred. Daily, or lifetime? The late-night question every Meta buyer knows.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and after every change it sends, it reads the platform back. So you see what Meta actually holds, not what you meant to set.\n\nWhich setting have you double-checked at night?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-thu05-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-05T18:00",
+      "media": "I07-found-three-changed-nothing-9x16.mp4",
+      "caption": "Three problems found. Zero changes made. On purpose.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Its AI can look at every account, but it can't change one. You decide which fixes go out, and Adspenta checks each one really went through.\n\nWould you rather approve fixes, or have them made for you?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-thu05-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-05T20:00",
+      "media": "I07-found-three-changed-nothing-9x16.mp4",
+      "caption": "Three problems found. Zero changes made. On purpose.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Its AI can look at every account, but it can't change one. You decide which fixes go out, and Adspenta checks each one really went through.\n\nWould you rather approve fixes, or have them made for you?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "st-ig-2026-11-06-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-06T09:30",
+      "media": "h05-story-1of3.mp4",
+      "note": "brief h05 1/3"
+    },
+    {
+      "id": "st-ig-2026-11-06-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-06T09:31",
+      "media": "h05-story-2of3.mp4",
+      "note": "brief h05 2/3"
+    },
+    {
+      "id": "st-ig-2026-11-06-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-06T09:32",
+      "media": "h05-story-3of3.mp4",
+      "note": "brief h05 3/3"
+    },
+    {
+      "id": "st-fb-2026-11-06-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-06T09:33",
+      "media": "h05-story-1of3.mp4",
+      "note": "brief h05 1/3"
+    },
+    {
+      "id": "st-fb-2026-11-06-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-06T09:34",
+      "media": "h05-story-2of3.mp4",
+      "note": "brief h05 2/3"
+    },
+    {
+      "id": "st-fb-2026-11-06-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-06T09:35",
+      "media": "h05-story-3of3.mp4",
+      "note": "brief h05 3/3"
+    },
+    {
+      "id": "ig-fri06-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-06T12:00",
+      "media": "I02-it-s-been-three-days-9x16.mp4",
+      "caption": "Your client wants your change undone. It's been three days.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and it won't judge a change that early. At day 7 it says when it can't tell yet. A week later, you get the answer.\n\nHave you ever undone a change that was working?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-fri06-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-06T13:00",
+      "media": "I02-it-s-been-three-days-9x16.mp4",
+      "caption": "Your client wants your change undone. It's been three days.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and it won't judge a change that early. At day 7 it says when it can't tell yet. A week later, you get the answer.\n\nHave you ever undone a change that was working?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-fri06-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-06T18:00",
+      "media": "I08-refresh-refresh-again-9x16.mp4",
+      "caption": "Change made. Refresh. Refresh again. Just to be sure it took.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After it sends a change, it asks Meta what's really there, and it only says confirmed when the numbers match. Two weeks later, it checks if it worked.\n\nHow many times do you refresh after a change?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-fri06-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-06T20:00",
+      "media": "I08-refresh-refresh-again-9x16.mp4",
+      "caption": "Change made. Refresh. Refresh again. Just to be sure it took.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After it sends a change, it asks Meta what's really there, and it only says confirmed when the numbers match. Two weeks later, it checks if it worked.\n\nHow many times do you refresh after a change?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "st-ig-2026-11-07-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-07T09:30",
+      "media": "h06-story-1of3.mp4",
+      "note": "brief h06 1/3"
+    },
+    {
+      "id": "st-ig-2026-11-07-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-07T09:31",
+      "media": "h06-story-2of3.mp4",
+      "note": "brief h06 2/3"
+    },
+    {
+      "id": "st-ig-2026-11-07-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-07T09:32",
+      "media": "h06-story-3of3.mp4",
+      "note": "brief h06 3/3"
+    },
+    {
+      "id": "st-fb-2026-11-07-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-07T09:33",
+      "media": "h06-story-1of3.mp4",
+      "note": "brief h06 1/3"
+    },
+    {
+      "id": "st-fb-2026-11-07-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-07T09:34",
+      "media": "h06-story-2of3.mp4",
+      "note": "brief h06 2/3"
+    },
+    {
+      "id": "st-fb-2026-11-07-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-07T09:35",
+      "media": "h06-story-3of3.mp4",
+      "note": "brief h06 3/3"
+    },
+    {
+      "id": "ig-sat07-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-07T12:00",
+      "media": "I11-its-still-learning-9x16.mp4",
+      "caption": "\"It's still learning.\" That's not a result.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change you approve gets two dates, day 7 and day 14, and a verdict against the account's own history. If it can't tell yet, it says not enough data.\n\nHow long has your client been hearing \"it's still learning\"?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "li-v-g01",
+      "platform": "li",
+      "kind": "video",
+      "at": "2026-11-07T12:00",
+      "media": "G01-this-fix-made-it-worse-9x16.mp4",
+      "title": "This fix made things worse. Good.",
+      "caption": "One of our test fixes made things worse. I think that's the most useful thing the product does.\n\nTwo ad sets were merged. Most tools would stop at \"applied\". Adspenta, the marketing tool I'm building for agencies, keeps watching every change it sends: day 7, then day 14, against the account's own baseline. This one came back \"worse\".\n\nFour honest answers: improved, worse, no change, not enough data. You hear it first, not your client.\n\nWould you rather know, or not know?\n\n(Short video, AI voice, example data.)"
+    },
+    {
+      "id": "fb-sat07-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-07T13:00",
+      "media": "I11-its-still-learning-9x16.mp4",
+      "caption": "\"It's still learning.\" That's not a result.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change you approve gets two dates, day 7 and day 14, and a verdict against the account's own history. If it can't tell yet, it says not enough data.\n\nHow long has your client been hearing \"it's still learning\"?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-sat07-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-07T18:00",
+      "media": "I05-this-ai-can-t-9x16.mp4",
+      "caption": "Never let AI touch a client's budget? Good. This AI can't.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Its AI reads the accounts and writes the fix, and you approve it. Then Adspenta checks the change really landed, and two weeks on, whether it worked.\n\nWhere do you draw the line with AI in client accounts?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-sat07-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-07T20:00",
+      "media": "I05-this-ai-can-t-9x16.mp4",
+      "caption": "Never let AI touch a client's budget? Good. This AI can't.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Its AI reads the accounts and writes the fix, and you approve it. Then Adspenta checks the change really landed, and two weeks on, whether it worked.\n\nWhere do you draw the line with AI in client accounts?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "st-ig-2026-11-08-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-08T09:30",
+      "media": "h07-story-1of3.mp4",
+      "note": "brief h07 1/3"
+    },
+    {
+      "id": "st-ig-2026-11-08-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-08T09:31",
+      "media": "h07-story-2of3.mp4",
+      "note": "brief h07 2/3"
+    },
+    {
+      "id": "st-ig-2026-11-08-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-08T09:32",
+      "media": "h07-story-3of3.mp4",
+      "note": "brief h07 3/3"
+    },
+    {
+      "id": "st-fb-2026-11-08-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-08T09:33",
+      "media": "h07-story-1of3.mp4",
+      "note": "brief h07 1/3"
+    },
+    {
+      "id": "st-fb-2026-11-08-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-08T09:34",
+      "media": "h07-story-2of3.mp4",
+      "note": "brief h07 2/3"
+    },
+    {
+      "id": "st-fb-2026-11-08-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-08T09:35",
+      "media": "h07-story-3of3.mp4",
+      "note": "brief h07 3/3"
+    },
+    {
+      "id": "ig-sun08-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-08T12:00",
+      "media": "I12-the-sticky-notes-9x16.mp4",
+      "caption": "Running client Meta ads alone, with sticky notes as your whole system?\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day: budgets, tired ads, tracking. And it answers the note that never gets answered, \"did it work?\", fourteen days later.\n\nWhat's on your sticky notes right now?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "li-v-g03",
+      "platform": "li",
+      "kind": "video",
+      "at": "2026-11-08T12:00",
+      "media": "G03-forty-changes-9x16.mp4",
+      "title": "Forty changes. Which ones worked?",
+      "caption": "\"Your account had 40 optimisations this month.\" I used to think that sentence sounded good.\n\nForty is activity, not a result. So in Adspenta, the marketing tool I'm building for agencies, every change you approve is checked on the platform and then measured at 7 and 14 days. Some come back worse, and it says so.\n\nNot forty guesses. Forty answers.\n\nHow does your agency report on changes today?\n\n(Short video, AI voice, example data.)"
+    },
+    {
+      "id": "fb-sun08-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-08T13:00",
+      "media": "I12-the-sticky-notes-9x16.mp4",
+      "caption": "Running client Meta ads alone, with sticky notes as your whole system?\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day: budgets, tired ads, tracking. And it answers the note that never gets answered, \"did it work?\", fourteen days later.\n\nWhat's on your sticky notes right now?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-sun08-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-08T18:00",
+      "media": "I04-the-client-blames-your-changes-9x16.mp4",
+      "caption": "Leads fell. The client blames your changes. Did they cause it?\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and keeps every change it sends, each with its two-week answer: improved, worse, no change or not enough data. So the call starts with facts.\n\nWhat do you bring to a blame call today?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-sun08-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-08T20:00",
+      "media": "I04-the-client-blames-your-changes-9x16.mp4",
+      "caption": "Leads fell. The client blames your changes. Did they cause it?\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day and keeps every change it sends, each with its two-week answer: improved, worse, no change or not enough data. So the call starts with facts.\n\nWhat do you bring to a blame call today?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "st-ig-2026-11-09-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-09T09:30",
+      "media": "h08-story-1of3.mp4",
+      "note": "brief h08 1/3"
+    },
+    {
+      "id": "st-ig-2026-11-09-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-09T09:31",
+      "media": "h08-story-2of3.mp4",
+      "note": "brief h08 2/3"
+    },
+    {
+      "id": "st-ig-2026-11-09-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-09T09:32",
+      "media": "h08-story-3of3.mp4",
+      "note": "brief h08 3/3"
+    },
+    {
+      "id": "st-fb-2026-11-09-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-09T09:33",
+      "media": "h08-story-1of3.mp4",
+      "note": "brief h08 1/3"
+    },
+    {
+      "id": "st-fb-2026-11-09-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-09T09:34",
+      "media": "h08-story-2of3.mp4",
+      "note": "brief h08 2/3"
+    },
+    {
+      "id": "st-fb-2026-11-09-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-09T09:35",
+      "media": "h08-story-3of3.mp4",
+      "note": "brief h08 3/3"
+    },
+    {
+      "id": "ig-mon09-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-09T12:00",
+      "media": "I09-after-you-click-approve-9x16.mp4",
+      "caption": "Clicking approve is the easy part. What happens next is the job.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After you approve: five minutes to take it back, a check that Meta really made the change, then two answers, at one week and at two weeks.\n\nWhat happens after you click approve today?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "li-v-g04",
+      "platform": "li",
+      "kind": "video",
+      "at": "2026-11-09T12:00",
+      "media": "G04-four-say-applied-9x16.mp4",
+      "title": "Four say applied. One didn't land.",
+      "caption": "Four changes. All say \"applied\". One never actually happened.\n\nThat gap between what a tool says and what the platform holds is why Adspenta, the marketing tool I'm building for agencies, reads every change it sends back from Meta and Google. Only a match counts as confirmed. No match, and it says unconfirmed, not done. Then day 14 tells you if it worked.\n\nHave you ever found a change that never landed?\n\n(Short video, AI voice, example data.)"
+    },
+    {
+      "id": "fb-mon09-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-09T13:00",
+      "media": "I09-after-you-click-approve-9x16.mp4",
+      "caption": "Clicking approve is the easy part. What happens next is the job.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After you approve: five minutes to take it back, a check that Meta really made the change, then two answers, at one week and at two weeks.\n\nWhat happens after you click approve today?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-mon09-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-09T18:00",
+      "media": "H10-dashed-until-it-s-true-9x16.mp4",
+      "caption": "If you run Meta ads for clients, watch this line. Approved isn't live yet.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After it sends a change, it asks Meta what's really there. The line closes only when the numbers match. If not, it stays dashed and tells you. Two weeks later, whether it worked.\n\nHow do you know a change is really live?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-mon09-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-09T20:00",
+      "media": "H10-dashed-until-it-s-true-9x16.mp4",
+      "caption": "If you run Meta ads for clients, watch this line. Approved isn't live yet.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After it sends a change, it asks Meta what's really there. The line closes only when the numbers match. If not, it stays dashed and tells you. Two weeks later, whether it worked.\n\nHow do you know a change is really live?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "st-ig-2026-11-10-b1",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-10T09:30",
+      "media": "h09-story-1of3.mp4",
+      "note": "brief h09 1/3"
+    },
+    {
+      "id": "st-ig-2026-11-10-b2",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-10T09:31",
+      "media": "h09-story-2of3.mp4",
+      "note": "brief h09 2/3"
+    },
+    {
+      "id": "st-ig-2026-11-10-b3",
+      "platform": "ig",
+      "kind": "story",
+      "at": "2026-11-10T09:32",
+      "media": "h09-story-3of3.mp4",
+      "note": "brief h09 3/3"
+    },
+    {
+      "id": "st-fb-2026-11-10-b1",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-10T09:33",
+      "media": "h09-story-1of3.mp4",
+      "note": "brief h09 1/3"
+    },
+    {
+      "id": "st-fb-2026-11-10-b2",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-10T09:34",
+      "media": "h09-story-2of3.mp4",
+      "note": "brief h09 2/3"
+    },
+    {
+      "id": "st-fb-2026-11-10-b3",
+      "platform": "fb",
+      "kind": "story",
+      "at": "2026-11-10T09:35",
+      "media": "h09-story-3of3.mp4",
+      "note": "brief h09 3/3"
+    },
+    {
+      "id": "ig-tue10-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-10T12:00",
+      "media": "I06-the-quiet-campaign-9x16.mp4",
+      "caption": "The costliest problems don't send an alert. Nothing breaks. The campaign just goes quiet.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, notices a campaign going quiet even with no error, and brings the reason with the fix. You approve, it checks the change landed, and a week on you see what happened.\n\nWhich of your campaigns went quiet last month?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-tue10-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-10T13:00",
+      "media": "I06-the-quiet-campaign-9x16.mp4",
+      "caption": "The costliest problems don't send an alert. Nothing breaks. The campaign just goes quiet.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, notices a campaign going quiet even with no error, and brings the reason with the fix. You approve, it checks the change landed, and a week on you see what happened.\n\nWhich of your campaigns went quiet last month?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-tue10-1800",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-10T18:00",
+      "media": "I13-their-last-agency-9x16.mp4",
+      "caption": "New client. First complaint: the last agency. Changes, never reasons.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change it sends keeps its reason and who said yes. It checks the platform made it, then comes back two weeks later with the answer.\n\nWhat did your clients' last agency never explain?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-tue10-2000",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-10T20:00",
+      "media": "I13-their-last-agency-9x16.mp4",
+      "caption": "New client. First complaint: the last agency. Changes, never reasons.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change it sends keeps its reason and who said yes. It checks the platform made it, then comes back two weeks later with the answer.\n\nWhat did your clients' last agency never explain?\n\nStart your free trial at adspenta.com. AI voice. Example data."
+    }
+  ]
+}

@@ -368,7 +368,9 @@
       "kind": "reel",
       "at": "2026-11-07T12:00",
       "media": "I11-its-still-learning-9x16.mp4",
-      "caption": "\"It's still learning.\" That's not a result.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change you approve gets two dates, day 7 and day 14, and a verdict against the account's own history. If it can't tell yet, it says not enough data.\n\nHow long has your client been hearing \"it's still learning\"?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+      "caption": "\"It's still learning.\" That's not a result.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change you approve gets two dates, day 7 and day 14, and a verdict against the account's own history. If it can't tell yet, it says not enough data.\n\nHow long has your client been hearing \"it's still learning\"?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife",
+      "status": "failed",
+      "result": "Error: container 18124184251916036 failed: ERROR"
     },
     {
       "id": "li-v-g01",
@@ -377,7 +379,9 @@
       "at": "2026-11-07T12:00",
       "media": "G01-this-fix-made-it-worse-9x16.mp4",
       "title": "This fix made things worse. Good.",
-      "caption": "One of our test fixes made things worse. I think that's the most useful thing the product does.\n\nTwo ad sets were merged. Most tools would stop at \"applied\". Adspenta, the marketing tool I'm building for agencies, keeps watching every change it sends: day 7, then day 14, against the account's own baseline. This one came back \"worse\".\n\nFour honest answers: improved, worse, no change, not enough data. You hear it first, not your client.\n\nWould you rather know, or not know?\n\n(Short video, AI voice, example data.)"
+      "caption": "One of our test fixes made things worse. I think that's the most useful thing the product does.\n\nTwo ad sets were merged. Most tools would stop at \"applied\". Adspenta, the marketing tool I'm building for agencies, keeps watching every change it sends: day 7, then day 14, against the account's own baseline. This one came back \"worse\".\n\nFour honest answers: improved, worse, no change, not enough data. You hear it first, not your client.\n\nWould you rather know, or not know?\n\n(Short video, AI voice, example data.)",
+      "status": "posted",
+      "result": "published video: https://www.linkedin.com/feed/update/urn:li:ugcPost:7524777190379679744/"
     },
     {
       "id": "fb-sat07-1300",

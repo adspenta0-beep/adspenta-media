@@ -419,7 +419,9 @@
       "kind": "story",
       "at": "2026-11-08T09:30",
       "media": "h07-story-1of3.mp4",
-      "note": "brief h07 1/3"
+      "note": "brief h07 1/3",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-08T09:30"
     },
     {
       "id": "st-ig-2026-11-08-b2",
@@ -427,7 +429,9 @@
       "kind": "story",
       "at": "2026-11-08T09:31",
       "media": "h07-story-2of3.mp4",
-      "note": "brief h07 2/3"
+      "note": "brief h07 2/3",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-08T09:31"
     },
     {
       "id": "st-ig-2026-11-08-b3",
@@ -435,7 +439,9 @@
       "kind": "story",
       "at": "2026-11-08T09:32",
       "media": "h07-story-3of3.mp4",
-      "note": "brief h07 3/3"
+      "note": "brief h07 3/3",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-08T09:32"
     },
     {
       "id": "st-fb-2026-11-08-b1",
@@ -443,7 +449,9 @@
       "kind": "story",
       "at": "2026-11-08T09:33",
       "media": "h07-story-1of3.mp4",
-      "note": "brief h07 1/3"
+      "note": "brief h07 1/3",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-08T09:33"
     },
     {
       "id": "st-fb-2026-11-08-b2",
@@ -451,7 +459,9 @@
       "kind": "story",
       "at": "2026-11-08T09:34",
       "media": "h07-story-2of3.mp4",
-      "note": "brief h07 2/3"
+      "note": "brief h07 2/3",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-08T09:34"
     },
     {
       "id": "st-fb-2026-11-08-b3",
@@ -459,7 +469,9 @@
       "kind": "story",
       "at": "2026-11-08T09:35",
       "media": "h07-story-3of3.mp4",
-      "note": "brief h07 3/3"
+      "note": "brief h07 3/3",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-08T09:35"
     },
     {
       "id": "ig-sun08-1200",
@@ -467,7 +479,9 @@
       "kind": "reel",
       "at": "2026-11-08T12:00",
       "media": "I12-the-sticky-notes-9x16.mp4",
-      "caption": "Running client Meta ads alone, with sticky notes as your whole system?\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day: budgets, tired ads, tracking. And it answers the note that never gets answered, \"did it work?\", fourteen days later.\n\nWhat's on your sticky notes right now?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+      "caption": "Running client Meta ads alone, with sticky notes as your whole system?\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day: budgets, tired ads, tracking. And it answers the note that never gets answered, \"did it work?\", fourteen days later.\n\nWhat's on your sticky notes right now?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-08T12:00"
     },
     {
       "id": "li-v-g03",
@@ -476,7 +490,9 @@
       "at": "2026-11-08T12:00",
       "media": "G03-forty-changes-9x16.mp4",
       "title": "Forty changes. Which ones worked?",
-      "caption": "\"Your account had 40 optimisations this month.\" I used to think that sentence sounded good.\n\nForty is activity, not a result. So in Adspenta, the marketing tool I'm building for agencies, every change you approve is checked on the platform and then measured at 7 and 14 days. Some come back worse, and it says so.\n\nNot forty guesses. Forty answers.\n\nHow does your agency report on changes today?\n\n(Short video, AI voice, example data.)"
+      "caption": "\"Your account had 40 optimisations this month.\" I used to think that sentence sounded good.\n\nForty is activity, not a result. So in Adspenta, the marketing tool I'm building for agencies, every change you approve is checked on the platform and then measured at 7 and 14 days. Some come back worse, and it says so.\n\nNot forty guesses. Forty answers.\n\nHow does your agency report on changes today?\n\n(Short video, AI voice, example data.)",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-08T12:00"
     },
     {
       "id": "fb-sun08-1300",

@@ -701,7 +701,9 @@
       "kind": "reel",
       "at": "2026-11-10T12:00",
       "media": "I06-the-quiet-campaign-9x16.mp4",
-      "caption": "The costliest problems don't send an alert. Nothing breaks. The campaign just goes quiet.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, notices a campaign going quiet even with no error, and brings the reason with the fix. You approve, it checks the change landed, and a week on you see what happened.\n\nWhich of your campaigns went quiet last month?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+      "caption": "The costliest problems don't send an alert. Nothing breaks. The campaign just goes quiet.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, notices a campaign going quiet even with no error, and brings the reason with the fix. You approve, it checks the change landed, and a week on you see what happened.\n\nWhich of your campaigns went quiet last month?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-10T12:00"
     },
     {
       "id": "fb-tue10-1300",
@@ -719,7 +721,9 @@
       "kind": "reel",
       "at": "2026-11-10T18:00",
       "media": "I13-their-last-agency-9x16.mp4",
-      "caption": "New client. First complaint: the last agency. Changes, never reasons.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change it sends keeps its reason and who said yes. It checks the platform made it, then comes back two weeks later with the answer.\n\nWhat did your clients' last agency never explain?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+      "caption": "New client. First complaint: the last agency. Changes, never reasons.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change it sends keeps its reason and who said yes. It checks the platform made it, then comes back two weeks later with the answer.\n\nWhat did your clients' last agency never explain?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife",
+      "status": "failed",
+      "result": "Error: container 18125040136916036 failed: ERROR"
     },
     {
       "id": "fb-tue10-2000",

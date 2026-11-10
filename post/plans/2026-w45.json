@@ -641,7 +641,9 @@
       "kind": "story",
       "at": "2026-11-10T09:30",
       "media": "h09-story-1of3.mp4",
-      "note": "brief h09 1/3"
+      "note": "brief h09 1/3",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4027209156134735603"
     },
     {
       "id": "st-ig-2026-11-10-b2",
@@ -649,7 +651,9 @@
       "kind": "story",
       "at": "2026-11-10T09:31",
       "media": "h09-story-2of3.mp4",
-      "note": "brief h09 2/3"
+      "note": "brief h09 2/3",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4027209422773772350"
     },
     {
       "id": "st-ig-2026-11-10-b3",
@@ -657,7 +661,9 @@
       "kind": "story",
       "at": "2026-11-10T09:32",
       "media": "h09-story-3of3.mp4",
-      "note": "brief h09 3/3"
+      "note": "brief h09 3/3",
+      "status": "posted",
+      "result": "published story: https://www.instagram.com/stories/adspenta0/4027209963603618627"
     },
     {
       "id": "st-fb-2026-11-10-b1",
@@ -665,7 +671,9 @@
       "kind": "story",
       "at": "2026-11-10T09:33",
       "media": "h09-story-1of3.mp4",
-      "note": "brief h09 1/3"
+      "note": "brief h09 1/3",
+      "status": "posted",
+      "result": "published story: id 1714412953440046"
     },
     {
       "id": "st-fb-2026-11-10-b2",
@@ -673,7 +681,9 @@
       "kind": "story",
       "at": "2026-11-10T09:34",
       "media": "h09-story-2of3.mp4",
-      "note": "brief h09 2/3"
+      "note": "brief h09 2/3",
+      "status": "posted",
+      "result": "published story: id 3195714853972202"
     },
     {
       "id": "st-fb-2026-11-10-b3",
@@ -681,7 +691,9 @@
       "kind": "story",
       "at": "2026-11-10T09:35",
       "media": "h09-story-3of3.mp4",
-      "note": "brief h09 3/3"
+      "note": "brief h09 3/3",
+      "status": "posted",
+      "result": "published story: id 1658204439283776"
     },
     {
       "id": "ig-tue10-1200",

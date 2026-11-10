@@ -590,7 +590,9 @@
       "kind": "reel",
       "at": "2026-11-09T12:00",
       "media": "I09-after-you-click-approve-9x16.mp4",
-      "caption": "Clicking approve is the easy part. What happens next is the job.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After you approve: five minutes to take it back, a check that Meta really made the change, then two answers, at one week and at two weeks.\n\nWhat happens after you click approve today?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+      "caption": "Clicking approve is the easy part. What happens next is the job.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After you approve: five minutes to take it back, a check that Meta really made the change, then two answers, at one week and at two weeks.\n\nWhat happens after you click approve today?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-09T12:00"
     },
     {
       "id": "li-v-g04",
@@ -599,7 +601,9 @@
       "at": "2026-11-09T12:00",
       "media": "G04-four-say-applied-9x16.mp4",
       "title": "Four say applied. One didn't land.",
-      "caption": "Four changes. All say \"applied\". One never actually happened.\n\nThat gap between what a tool says and what the platform holds is why Adspenta, the marketing tool I'm building for agencies, reads every change it sends back from Meta and Google. Only a match counts as confirmed. No match, and it says unconfirmed, not done. Then day 14 tells you if it worked.\n\nHave you ever found a change that never landed?\n\n(Short video, AI voice, example data.)"
+      "caption": "Four changes. All say \"applied\". One never actually happened.\n\nThat gap between what a tool says and what the platform holds is why Adspenta, the marketing tool I'm building for agencies, reads every change it sends back from Meta and Google. Only a match counts as confirmed. No match, and it says unconfirmed, not done. Then day 14 tells you if it worked.\n\nHave you ever found a change that never landed?\n\n(Short video, AI voice, example data.)",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-09T12:00"
     },
     {
       "id": "fb-mon09-1300",
@@ -617,7 +621,9 @@
       "kind": "reel",
       "at": "2026-11-09T18:00",
       "media": "H10-dashed-until-it-s-true-9x16.mp4",
-      "caption": "If you run Meta ads for clients, watch this line. Approved isn't live yet.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After it sends a change, it asks Meta what's really there. The line closes only when the numbers match. If not, it stays dashed and tells you. Two weeks later, whether it worked.\n\nHow do you know a change is really live?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife"
+      "caption": "If you run Meta ads for clients, watch this line. Approved isn't live yet.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. After it sends a change, it asks Meta what's really there. The line closes only when the numbers match. If not, it stays dashed and tells you. Two weeks later, whether it worked.\n\nHow do you know a change is really live?\n\nStart your free trial at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #GoogleAds #PPC #AgencyLife",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-09T18:00"
     },
     {
       "id": "fb-mon09-2000",

@@ -1,0 +1,54 @@
+{
+  "week": "Sat 14 Nov to Mon 16 Nov 2026: Batch J, 3 reels (J04, J02 A, J03), 1 a day on IG (12:00) and FB (13:00). TikTok and YouTube not booked (no credits).",
+  "base": "https://raw.githubusercontent.com/adspenta0-beep/adspenta-media/main/",
+  "items": [
+    {
+      "id": "ig-sat14-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-14T12:00",
+      "media": "J04-can-we-talk-9x16.mp4",
+      "caption": "Biggest client: \"Can we talk?\"\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change it sends is written down, and at day 7 and day 14 it says whether the change worked, even when the answer is worse.\n\nWhich of your last five changes worked?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-sat14-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-14T13:00",
+      "media": "J04-can-we-talk-9x16.mp4",
+      "caption": "Biggest client: \"Can we talk?\"\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change it sends is written down, and at day 7 and day 14 it says whether the change worked, even when the answer is worse.\n\nWhich of your last five changes worked?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-sun15-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-15T12:00",
+      "media": "J02-extra-zero-9x16.mp4",
+      "caption": "You meant $500. You typed $5,000. Nobody looked.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change you approve waits five minutes before it goes out. Spot the zero, take it back.\n\nWhat's the worst typo you've caught just in time?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-sun15-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-15T13:00",
+      "media": "J02-extra-zero-9x16.mp4",
+      "caption": "You meant $500. You typed $5,000. Nobody looked.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change you approve waits five minutes before it goes out. Spot the zero, take it back.\n\nWhat's the worst typo you've caught just in time?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com. AI voice. Example data."
+    },
+    {
+      "id": "ig-mon16-1200",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-16T12:00",
+      "media": "J03-wrong-button-9x16.mp4",
+      "caption": "You paused your client's sale. Wrong button.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and it holds every change you approve for five minutes, so you can take it back before it goes out.\n\nEver hit the wrong one?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #PPC #AgencyLife"
+    },
+    {
+      "id": "fb-mon16-1300",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-16T13:00",
+      "media": "J03-wrong-button-9x16.mp4",
+      "caption": "You paused your client's sale. Wrong button.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and it holds every change you approve for five minutes, so you can take it back before it goes out.\n\nEver hit the wrong one?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com. AI voice. Example data."
+    }
+  ]
+}

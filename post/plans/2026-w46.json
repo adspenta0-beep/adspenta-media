@@ -16,7 +16,9 @@
       "kind": "reel",
       "at": "2026-11-14T13:00",
       "media": "J04-can-we-talk-9x16.mp4",
-      "caption": "Biggest client: \"Can we talk?\"\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change it sends is written down, and at day 7 and day 14 it says whether the change worked, even when the answer is worse.\n\nWhich of your last five changes worked?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com. AI voice. Example data."
+      "caption": "Biggest client: \"Can we talk?\"\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change it sends is written down, and at day 7 and day 14 it says whether the change worked, even when the answer is worse.\n\nWhich of your last five changes worked?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com. AI voice. Example data.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1556673379815348 for 2026-11-14T13:00"
     },
     {
       "id": "ig-sun15-1200",
@@ -32,7 +34,9 @@
       "kind": "reel",
       "at": "2026-11-15T13:00",
       "media": "J02-extra-zero-9x16.mp4",
-      "caption": "You meant $500. You typed $5,000. Nobody looked.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change you approve waits five minutes before it goes out. Spot the zero, take it back.\n\nWhat's the worst typo you've caught just in time?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com. AI voice. Example data."
+      "caption": "You meant $500. You typed $5,000. Nobody looked.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and every change you approve waits five minutes before it goes out. Spot the zero, take it back.\n\nWhat's the worst typo you've caught just in time?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com. AI voice. Example data.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 2170821263504894 for 2026-11-15T13:00"
     },
     {
       "id": "ig-mon16-1200",
@@ -48,7 +52,9 @@
       "kind": "reel",
       "at": "2026-11-16T13:00",
       "media": "J03-wrong-button-9x16.mp4",
-      "caption": "You paused your client's sale. Wrong button.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and it holds every change you approve for five minutes, so you can take it back before it goes out.\n\nEver hit the wrong one?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com. AI voice. Example data."
+      "caption": "You paused your client's sale. Wrong button.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and it holds every change you approve for five minutes, so you can take it back before it goes out.\n\nEver hit the wrong one?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com. AI voice. Example data.",
+      "status": "scheduled",
+      "result": "scheduled reel: id 1670284758138239 for 2026-11-16T13:00"
     }
   ]
 }

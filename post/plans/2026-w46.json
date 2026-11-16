@@ -48,7 +48,9 @@
       "kind": "reel",
       "at": "2026-11-16T12:00",
       "media": "J03-wrong-button-9x16.mp4",
-      "caption": "You paused your client's sale. Wrong button.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and it holds every change you approve for five minutes, so you can take it back before it goes out.\n\nEver hit the wrong one?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #PPC #AgencyLife"
+      "caption": "You paused your client's sale. Wrong button.\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day, and it holds every change you approve for five minutes, so you can take it back before it goes out.\n\nEver hit the wrong one?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #PPC #AgencyLife",
+      "status": "skipped",
+      "result": "queue did not run in time for 2026-11-16T12:00"
     },
     {
       "id": "fb-mon16-1300",
@@ -67,8 +69,9 @@
       "at": "2026-11-16T19:00",
       "media": "J04-can-we-talk-9x16.mp4",
       "caption": "Biggest client: \"Can we talk?\"\n\nAdspenta is a marketing tool for agencies. It checks every client's Meta and Google ads every day. Every change it sends is written down, and at day 7 and day 14 it says whether the change worked, even when the answer is worse.\n\nWhich of your last five changes worked?\n\nFree check of one Meta ad account. Nothing gets changed. Request it at adspenta.com (link in bio). AI voice. Example data.\n\n#MetaAds #PPC #AgencyLife",
-      "status": "pending",
-      "note": "rebook of ig-sat14-1200 (skipped, queue late)"
+      "status": "posted",
+      "note": "rebook of ig-sat14-1200 (skipped, queue late)",
+      "result": "published reel: https://www.instagram.com/reel/Dfz6RbYEuoT/"
     }
   ]
 }

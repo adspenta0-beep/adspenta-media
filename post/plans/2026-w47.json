@@ -87,6 +87,69 @@
       "status": "scheduled",
       "note": "J06 voice test",
       "result": "scheduled reel: id 1751410602601421 for 2026-11-23T19:00"
+    },
+    {
+      "id": "ig-k01-11-22-1730",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-22T17:30",
+      "media": "K01-wall-of-text-trust-9x16.mp4",
+      "caption": "Why don't agency owners trust automation on live client accounts?\n\nAdspenta is a marketing tool for agencies that run clients' Meta and Google ads. A person approves every change, it waits five minutes so you can take it back, and afterwards Adspenta checks with Meta that it really happened. One switch stops everything.\n\nWould you let a tool touch your client accounts?\n\nFree check of one client's Meta ad account. You get a one page report, and nothing gets changed. Ask at adspenta.com, link in bio.\n\n#digitalmarketingagency #facebookads #ppcagency #facebookadsstrategy",
+      "status": "pending",
+      "note": "Mark's fastlane pack 22 Nov"
+    },
+    {
+      "id": "fb-k01-11-22-1730",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-22T17:30",
+      "media": "K01-wall-of-text-trust-9x16.mp4",
+      "caption": "Why don't agency owners trust automation on live client accounts?\n\nAdspenta is a marketing tool for agencies that run clients' Meta and Google ads. A person approves every change, it waits five minutes so you can take it back, and afterwards Adspenta checks with Meta that it really happened. One switch stops everything.\n\nWould you let a tool touch your client accounts?\n\nFree check of one client's Meta ad account. You get a one page report, and nothing gets changed. Ask at adspenta.com.\n\n#facebookads #digitalmarketingagency",
+      "status": "scheduled",
+      "note": "Mark's fastlane pack 22 Nov",
+      "result": "scheduled reel: id 2292797444610356 for 2026-11-22T17:30"
+    },
+    {
+      "id": "ig-k02-11-23-1600",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-23T16:00",
+      "media": "K02-pov-runaway-pacing-9x16.mp4",
+      "caption": "POV: Adspenta catches runaway pacing before the client asks if it's worth it.\n\nAdspenta is a marketing tool for agencies that run clients' Meta and Google ads. It checks every client account every day, budget pacing included, so you hear about it first.\n\nWho spots overspend first at your agency, you or the client?\n\nFree check of one client's Meta ad account. You get a one page report, and nothing gets changed. Ask at adspenta.com, link in bio.\n\n#googleads #ppcmarketing #adagency #mediabuying",
+      "status": "pending",
+      "note": "Mark's fastlane pack 22 Nov"
+    },
+    {
+      "id": "fb-k02-11-23-1600",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-23T16:00",
+      "media": "K02-pov-runaway-pacing-9x16.mp4",
+      "caption": "POV: Adspenta catches runaway pacing before the client asks if it's worth it.\n\nAdspenta is a marketing tool for agencies that run clients' Meta and Google ads. It checks every client account every day, budget pacing included, so you hear about it first.\n\nWho spots overspend first at your agency, you or the client?\n\nFree check of one client's Meta ad account. You get a one page report, and nothing gets changed. Ask at adspenta.com.\n\n#googleads #ppc",
+      "status": "scheduled",
+      "note": "Mark's fastlane pack 22 Nov",
+      "result": "scheduled reel: id 2595792544223170 for 2026-11-23T16:00"
+    },
+    {
+      "id": "ig-k03-11-24-1600",
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-24T16:00",
+      "media": "K03-me-explaining-pacing-9x16.mp4",
+      "caption": "Me explaining how Adspenta caught the budget pacing issue before the client did.\n\nAdspenta is a marketing tool for agencies that run clients' Meta and Google ads. It checks every client account every day and flags the problem before the client calls.\n\nWhat's the worst thing a client noticed before you did?\n\nFree check of one client's Meta ad account. You get a one page report, and nothing gets changed. Ask at adspenta.com, link in bio.\n\n#metaads #facebookadsmanager #agencyowner #socialmediaagency",
+      "status": "pending",
+      "note": "Mark's fastlane pack 22 Nov"
+    },
+    {
+      "id": "fb-k03-11-24-1600",
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-24T16:00",
+      "media": "K03-me-explaining-pacing-9x16.mp4",
+      "caption": "Me explaining how Adspenta caught the budget pacing issue before the client did.\n\nAdspenta is a marketing tool for agencies that run clients' Meta and Google ads. It checks every client account every day and flags the problem before the client calls.\n\nWhat's the worst thing a client noticed before you did?\n\nFree check of one client's Meta ad account. You get a one page report, and nothing gets changed. Ask at adspenta.com.\n\n#metaads #agencyowner",
+      "status": "scheduled",
+      "note": "Mark's fastlane pack 22 Nov",
+      "result": "scheduled reel: id 1521690475959679 for 2026-11-24T16:00"
     }
   ]
 }
